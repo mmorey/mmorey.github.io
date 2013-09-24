@@ -1,0 +1,65 @@
+---
+layout: post
+title: ! '@MattsOffice - Home Automation via Twitter'
+description: Home automation via 2-way communication with Twitter.
+category: projects
+tags:
+- home automation
+- php
+- twitter
+- IOBridge
+redirects:
+- /blog/mattsoffice
+- /projects/introducing-mattsoffice
+---
+<p>I recently discovered <a href="http://www.iobridge.com/">IOBridge’s IO-204</a> and instantly knew I needed one. I went ahead and bought the device as well as several of their accessory boards. Once everything arrived I started tinkering and was amazed with how easy it was to connect DIY projects to the web.</p>
+
+<p>Now if only I had a project to use it with.</p>
+
+<div class="row text-center screenshot">
+    <img src="/assets/mattsoffice-systemdiagram.jpg" alt="@MattsOffice system diagram">
+</div>
+
+<p>Luckily, one of my graduate courses on computer communications required a research paper on a "communications based" project. After some brain storming I settled on a project title of "Feasibility Study of Home Automation via Social Networks".</p>
+
+<div class="row text-center">
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/PVm1VKB43ww?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p>The project was inspired by many other Twittering household devices.</p>
+<ul>
+	<li><a href="http://twitter.com/mytoaster">http://twitter.com/mytoaster</a></li>
+	<li><a href="http://twitter.com/EDogFeeder">http://twitter.com/EDogFeeder</a></li>
+	<li><a href="http://twitter.com/PiMPY3WASH">http://twitter.com/PiMPY3WASH</a></li>
+</ul>
+
+<p>The one thing lacking in most of these devices was 2-way communication between Twitter and the device. In all of the examples I could find the device is sending an update to Twitter but is never performing an action based on a Twitter message.</p>
+
+<p>With <a href="http://twitter.com/MattsOffice">http://twitter.com/MattsOffice</a> you can send a command by placing a keyword in a @reply message. Valid keywords are "light", "bright", "dark", "temp", "hot", "cold", "lcd", and "view". For example, to retrieve the temperature of my office I just need to update <a href="http://twitter.com/xzolian">my Twitter status</a> with a simple question like “@MattsOffice What is the temperature?”. Here are some more examples:</p>
+
+<blockquote>“@MattsOffice How cold is it?” – replies with the current temperature <br>
+“@MattsOffice How bright is it?” – replies with the current ambient light reading<br>
+“@MattsOffice lcd test message” – outputs “test message” to my LCD sitting on my desk<br>
+“@MattsOffice What is the view from your office look like?” – uploads a picture taken from my office window to <a href="http://twitpic.com/">TwitPic.com</a></blockquote>
+
+<p>Multiple commands can be posted together:</p>
+
+<blockquote>“@MattsOffice temp bright view” – replies with the current temperature, brightness, and post a picture</blockquote>
+
+<p>I can also turn off or on my desk light by updating my status with “@MattsOffice light on” or “@MattsOffice light off”. To prevent my light from turning off when I don’t want it to be off I have disable this feature for everyone but myself (i.e. it only works if @xzolian ask to turn the light on or off).</p>
+
+<p>The project code is pretty simple, just 2 PHP scripts that are ran periodically via a CRON job. The first script routinely updates the @MattsOffice Twitter feed with the current temperature and light intensity. The second script parses the Twitter feed and performs an action if the necessary command has been detected.</p>
+
+<script type="text/javascript" src="https://gist.github.com/1973091.js?file=mattsOfficeTimeUpdate.php"></script>
+<script type="text/javascript" src="https://gist.github.com/1973091.js?file=mattsOfficeActionUpdate.php"></script>
+
+<p><em>Update: 07/15/2009</em>
+Project has been completed, see the demo video above.</p>
+
+<p><em>Update: 08/15/2009</em>
+Project was covered by <a title="Toaster, Toilet Lead Appliance Invasion of Twitter" href="http://www.wired.com/gadgetlab/2009/08/twittering-toaster/">Wired</a>, <a title="Twitter: Household Appliances Get Vocal" href="http://www.pcworld.com/article/169708/twitter_household_appliances_get_vocal.html">PCWorld</a>, <a title="Automate Your Home Using ioBridge and Twitter" href="http://www.readwriteweb.com/archives/automate_your_home_using_iobridge_and_twitter.php">ReadWriteWeb</a>, and <a title="Home automation via twitter" href="http://hackaday.com/2009/07/19/home-automation-via-twitter/">HackADay</a>. Here is an excerpt from the Wired article:</p>
+
+<blockquote>The twittering toaster went on to inspire Matthew Morey, an engineer at Texas Instruments, to create his own twittering appliances. In less than a month, Morey found a way to get the temperature and lighting of his single-family home in Houston on Twitter. A typical post from those sensors reads: Temperature = 82.5°F / Ambient Light = 901. Morey can also send commands to his appliances via Twitter. Doing that is as easy as sending a reply with words such '@MattsOffice light on' or '@MattsOffice light off' to turn on or off the light at his desk.</blockquote>
+
+<p><em>Update: 10/01/2009</em>
+@MattsOffice has been taken off the interwebs due to my recent move, no plans for it to come back online at this time.</p>
