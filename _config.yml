@@ -19,6 +19,6 @@ redcarpet:
   extensions: []
 permalink: /:title
 pygments: true
-exclude: [README.md, TODO.md]
+exclude: [README.md, TODO.md, Gemfile*]
 include: [.htaccess]
 safe: true
