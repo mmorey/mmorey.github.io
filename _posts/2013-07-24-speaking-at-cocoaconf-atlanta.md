@@ -14,6 +14,6 @@ I will be speaking at [CocoaConf](http://cocoaconf.com/atlanta-2013/home "CocoaC
 
 As a previous CocoaConf attendee I'm very fortunate to be a part of such a high quality conference.
 
-CocoaConf is unique in that it is a much more intimate conference. This is a good thing as it allows you meet everyone and make lasting relationships.
+CocoaConf is unique as it is a much more intimate conference. This is a good thing as it allows you meet everyone and make lasting relationships.
 
 Tickets are [affordable](http://cocoaconf.com/atlanta-2013/register "CocoaConf Atlanta tickets"), I hope to see you in Atlanta.
