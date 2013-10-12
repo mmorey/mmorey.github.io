@@ -145,6 +145,14 @@ pre code {
     text-align: right;
 }
 
+blockquote {
+    font-size: 14px;
+}
+
+blockquote p {
+    font-size: 14px;
+}
+
 /* Large desktop */
 @media (min-width: 1200px) {
  }
