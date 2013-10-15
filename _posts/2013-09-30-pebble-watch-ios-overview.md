@@ -19,3 +19,5 @@ I recently had the honor of speaking at [360i|Dev](http://360idev.com/ "360i|Dev
 <div class="row mmvideo">
 	<script async class="speakerdeck-embed" data-id="766fce600c2c0131e3c7061b27021fa3" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
+
+The open source project I created for the talk, PebbleWeatherIO, is available on [GitHub](https://github.com/mmorey/PebbleWeatherIO "Source code for PebbleWeatherIO").
