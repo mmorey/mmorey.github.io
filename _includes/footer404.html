@@ -1,0 +1,51 @@
+
+                    </div> <!-- content-right -->
+
+                </div> <!-- span8 -->
+            </div> <!-- row -->
+
+        </div> <!-- container -->
+
+        <!-- Jquery with local fallback -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
+        <!-- Bootstrap js with local fallback -->
+        <script type="text/javascript" src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+        <script> if(typeof($.fn.modal) === 'undefined') {document.write('<script src="/js/vendor/bootstrap.min.js"><\/script>');}</script>
+
+        <!-- User JS -->
+        <script src="/js/plugins.js"></script>
+        <script src="/js/main.js"></script>
+
+        {% for js in page.extra-js %}
+        <script src="{{ js }}"></script>
+        {% endfor %}
+
+        <!-- Bootswatch CDN with local fallback -->
+        <script>
+            $(document).ready(function() {
+                var bodyColor = $('body').css("color");
+                if(bodyColor != 'rgb(85, 85, 85)') {
+                    $("head").prepend("<link rel='stylesheet' href='/css/bootstrap.min.css' type='text/css' media='screen'>");
+                    $("head").prepend("<link rel='stylesheet' href='/css/bootstrap-responsive.min.css' type='text/css' media='screen'>");
+                    $("head").prepend("<link rel='stylesheet' href='/css/font-awesome.min.css' type='text/css' media='screen'>");
+                }
+            });
+        </script>
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-25263796-1']);
+            _gaq.push(['_trackPageview','/404error/?url=' + document.location.pathname +     document.location.search + '&ref=' + document.referrer]);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+
+    </body>
+</html>
