@@ -1,5 +1,5 @@
 ---
-title: New Opportunities with Wearable Technology
+title: New Opportunities with wearable technology
 layout: post
 description: As the Pebble watch and other wearable devices become ubiquitous new opportunities for innovative user interaction and functionality are being created.
 tags:

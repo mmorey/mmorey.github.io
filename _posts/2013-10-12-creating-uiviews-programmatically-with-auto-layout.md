@@ -1,5 +1,5 @@
 ---
-title: Creating UIViews Programmatically with Auto Layout
+title: Creating UIViews programmatically with Auto Layout
 layout: post
 description: How to create UIViews programmatically with Auto Layout
 tags:

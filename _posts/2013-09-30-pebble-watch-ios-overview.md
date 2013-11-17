@@ -1,5 +1,5 @@
 ---
-title: Pebble Smartwatch and iOS SDK Overview
+title: Pebble smartwatch and iOS SDK overview
 layout: post
 description: Overview of the Pebble smartwatch and Pebble iOS SDK
 tags:

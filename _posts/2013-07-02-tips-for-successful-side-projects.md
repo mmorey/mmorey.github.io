@@ -1,5 +1,5 @@
 ---
-title: Tips for Successful Side Projects
+title: Tips for successful side projects
 layout: post
 description: How to have a successful side project
 tags:

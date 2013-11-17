@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pebble Smartwatch Tools and Resources for Developers
+title: Pebble smartwatch tools and resources for developers
 description: Tools and resources for developing apps for the Pebble smartwatch
 tags:
 - Pebble
