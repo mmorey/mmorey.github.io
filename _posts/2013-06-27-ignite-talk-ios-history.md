@@ -1,5 +1,5 @@
 ---
-title: Ignite Talk - iOS History
+title: Ignite talk - iOS History
 layout: post
 description: History of the iOS operating system in five minutes
 location: Houston, TX

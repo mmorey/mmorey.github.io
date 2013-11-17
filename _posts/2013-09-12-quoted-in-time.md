@@ -1,5 +1,5 @@
 ---
-title: Time Tech Blog's Smartwatch Report Card
+title: Time Tech blog's Smartwatch Report Card
 layout: post
 description: I was recently quoted in the Time Tech blog's Smartwatch Report Card
 tags:

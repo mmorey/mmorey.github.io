@@ -1,5 +1,5 @@
 ---
-title: Buoy Explorer iOS App
+title: Buoy Explorer iOS app
 layout: post
 description: iOS app Buoy Explorer. Provides marine weather conditions for 100s of locations worldwide.
 category: projects

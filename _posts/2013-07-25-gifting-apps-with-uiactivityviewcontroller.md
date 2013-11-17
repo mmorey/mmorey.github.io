@@ -1,5 +1,5 @@
 ---
-title: Gifting Apps with UIActivityViewController
+title: Gifting apps with UIActivityViewController
 layout: post
 description: Increase the chances of a user gifting your app by using a custom UIActivity with UIActivityViewController
 tags:

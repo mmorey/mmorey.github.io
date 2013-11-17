@@ -1,5 +1,5 @@
 ---
-title: App Dev Stories Interview
+title: App Dev Stories interview
 layout: post
 description: Favorite iOS and OS X apps
 tags:
