@@ -7,7 +7,7 @@ tags:
 - Core Data
 ---
 
-> This is the first in a series of articles on Core Data performance. Material is based on a [talk](http://highperformancecoredata.com "High Performance Core Data talk at CocoaConf Atlanta") I gave at [CocoaConf](http://cocoaconf.com/conference/sessionDetails/348?confId=13 "CocoaConf Atlanta website") in Atlanta on November 15th, 2013. Because an hour talk is not enough time to discuss such an advanced topic I will be continuing the conversation here.
+> This is the first in a series of articles on Core Data performance. Material is based on the talk [High Performance Core Data](http://highperformancecoredata.com "High Performance Core Data talk at CocoaConf Atlanta") I gave at [CocoaConf](http://cocoaconf.com/conference/sessionDetails/348?confId=13 "CocoaConf Atlanta website") in Atlanta on November 15th, 2013. Because an hour talk is not enough time to discuss such an advanced topic I will be continuing the conversation here.
 
 > * Core Data performance is a balance
 > * Tools for Core Data
