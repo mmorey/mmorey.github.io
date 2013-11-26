@@ -7,10 +7,11 @@ tags:
 - Core Data
 ---
 
-> This is the first in a series of articles on Core Data performance. Material is based on the talk [High Performance Core Data](http://highperformancecoredata.com "High Performance Core Data talk at CocoaConf Atlanta") I gave at [CocoaConf](http://cocoaconf.com/conference/sessionDetails/348?confId=13 "CocoaConf Atlanta website") in Atlanta on November 15th, 2013. Because an hour talk is not enough time to discuss such an advanced topic I will be continuing the conversation here.
+> This is the first in a series of articles on Core Data performance. Material is based on the talk [High Performance Core Data](http://highperformancecoredata.com "High Performance Core Data talk at CocoaConf Atlanta") I gave at [CocoaConf](http://cocoaconf.com/conference/sessionDetails/348?confId=13 "CocoaConf Atlanta website") in Atlanta on November 15th, 2013. An hour talk is not enough time to discuss such an advanced topic so I will be continuing the conversation here.
 
-> * Core Data performance is a balance
-> * Tools for Core Data
+> * [Core Data performance is a balance]({% post_url 2013-11-17-core-data-performance-is-a-balance %} "Core Data performance is a balance blog post")
+> * [Tools for Core Data]({% post_url 2013-11-24-tools-for-core-data %} "Tools for Core Data")
+> * Efficient Predicates for Core Data
 > * ...
 
 Like most things, a fast Core Data implementation is a balance. The more objects you load into memory the faster your app will be, but then you are using more memory. You can minimize memory usage, but then your app will be slower.
@@ -106,19 +107,12 @@ When working with Core Data you should be mindful that every choice you make is 
 > If you would like to receive an email when the series is done or if I make significant changes to [HighPerformanceCoreData.com](http://highperformancecoredata.com "High Performance Core Data") please subscribe.
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
-/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
+<div id="mc_embed_signup" class="row mmvideo">
 <form action="http://highperformancecoredata.us3.list-manage2.com/subscribe/post?u=95f955e27438bc37739fd0f89&amp;id=a261b52329" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <label for="mce-EMAIL">Subscribe for future updates</label>
 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
 
