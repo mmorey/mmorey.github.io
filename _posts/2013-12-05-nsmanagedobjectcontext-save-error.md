@@ -27,7 +27,7 @@ When using a local persistent store, such as SQLite, a `save:` fail is most like
 
 I don't use Core Data validation as I prefer to validate the objects during import and population.
 
-It could also fail if there is a hardware failure, such as radiation flipping a bit. That likely only happens 0.0000000001% of the time and is probably not recoverable anyways.
+It could also fail if there is a hardware failure, such as radiation flipping several bits. That likely only happens 0.0000000001% of the time and is probably not recoverable anyways.
 
 Really, a failed `save:` should never happen in production. If the app does crash in production it is probably an implementation issue that should have been caught during development. A properly placed assertion should help catch these early on. For production, an `abort()` should produce a helpful stack trace.
 
@@ -50,7 +50,7 @@ if ([self.managedObjectContext save:&error] == NO) {
 
 - (void)showAlert {
     UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"Could Not Save Data"
-                                                        message:@"There was a problem saving your data but it is not your fault. If you restart the app, you can try again. Please contact support (suppor@domain.com) and notify them of this issue."
+                                                        message:@"There was a problem saving your data but it is not your fault. If you restart the app, you can try again. Please contact support (suppor@domain.com) to notify us of this issue."
                                                        delegate:self
                                               cancelButtonTitle:@"Ok"
                                               otherButtonTitles:nil];
