@@ -64,7 +64,7 @@ received = false
 
 On OS X if you do not provide a `password` in the configuration file getmail will check the Keychain first. If the password is not in the Keychain it will then ask with a prompt.
 
-I recommend backing up your email in two formats [mbox](https://en.wikipedia.org/wiki/Mbox "File format used for holding a collection of email") and [Maildir](https://en.wikipedia.org/wiki/Maildir "email format for storing email messages as separate files"). This will give you the most flexibility if you ever need to retrieve a message from the backup.
+I recommend backing up your email in two formats [mbox](https://en.wikipedia.org/wiki/Mbox "File format used for holding a collection of email") and [Maildir](https://en.wikipedia.org/wiki/Maildir "email format for storing email messages as separate files"). In order for the Maildir option to work you need to manually create the path directory specified under `[maildir-destination]` and add three sub-folders: `cur`, `new`, and `tmp`. This will give you the most flexibility if you ever need to retrieve a message from the backup. 
 
 Now test the configuration:
 
