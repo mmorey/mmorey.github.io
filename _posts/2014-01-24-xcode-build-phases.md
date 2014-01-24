@@ -18,7 +18,7 @@ Build phases are descriptions of tasks that need to be performed by Xcode during
 
 #### TODOs and FIXMEs
 
-`TODO`s and `FIXME`s should not be left in code but often are. By elevating `TODO`s and `FIXME`s to warnings it increases their visibility which increase the likelihood a developer will take care of them sooner rather than later.
+`TODO`s and `FIXME`s should not be left in code but often are. By elevating `TODO`s and `FIXME`s to warnings it increases their visibility which increases the likelihood a developer will take care of them sooner rather than later.
 
 A build phase can be used to generate warnings anytime a source file contains certain keywords. `TODO` and `FIXME` seems like the most common keywords people use.
 
@@ -33,7 +33,7 @@ find "${SRCROOT}" \( -name "*.h" -or -name "*.m" \) -print0 | xargs -0 egrep --w
 
 #### Code Complexity
 
-In an effort to keep source files lighter, particularly view controllers, the developer can be warned when classes begin to increase in complexity. One novice way to measure complexity is the number of lines in the source file.
+In an effort to keep source files lighter, particularly view controllers, Xcode can warn you when classes begin to increase in complexity. One novice way to measure complexity is the number of lines in the source file.
 
 A build phase can be used to generate warnings anytime a source file has a certain amount of lines. I find 400 to be a good compromise.
 
@@ -56,7 +56,7 @@ Code complexity is a complicated thing to measure. For a more robust approach fo
 
 #### Style
 
-To enforce opinionated style rules I use the Mac app [Objective-Clean](https://itunes.apple.com/us/app/objective-clean/id713910413?mt=12&at=10l6oV&ct=mm "Objective-Clean app on the Mac App Store") with a [custom configuration file](https://gist.github.com/mmorey/8596017 "Style settings plist file for Objective-Clean"). Objective-Clean can be automatically ran via a build phase:
+To enforce opinionated style rules I use the Mac app [Objective-Clean](https://itunes.apple.com/us/app/objective-clean/id713910413?mt=12&at=10l6oV&ct=mm "Objective-Clean app on the Mac App Store") with a [custom configuration file](https://gist.github.com/mmorey/8596017 "Style settings plist file for Objective-Clean"). Objective-Clean can be automatically ran with a build phase:
 
 ```
 if [[ -z ${SKIP_OBJCLEAN} || ${SKIP_OBJCLEAN} != 1 ]]; then
