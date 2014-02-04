@@ -50,7 +50,7 @@ if ([self.managedObjectContext save:&error] == NO) {
 
 - (void)showAlert {
     UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"Could Not Save Data"
-                                                        message:@"There was a problem saving your data but it is not your fault. If you restart the app, you can try again. Please contact support (suppor@domain.com) to notify us of this issue."
+                                                        message:@"There was a problem saving your data but it is not your fault. If you restart the app, you can try again. Please contact support (support@domain.com) to notify us of this issue."
                                                        delegate:self
                                               cancelButtonTitle:@"Ok"
                                               otherButtonTitles:nil];
