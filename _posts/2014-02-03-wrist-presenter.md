@@ -11,7 +11,7 @@ tags:
 
 In 2013 I had the opportunity to [speak at several great conferences](/speaking/ "Matthew Morey speaking engagements"), each was unique and offered a great way to further my knowledge while giving a little bit back to the community. As a result of the frequent travel I began optimizing what I bring to conferences: MacBook Pro, presenter remote, mic <sup>[1](#1)</sup>, webcam <sup>[2](#2)</sup>, Airport Express, various dongles, power supply, business cards, and probably a lot more I'm forgetting about.
 
-To further reduce my traveling load I built Wrist Presenter, a mobile app that lets you control presentations wirelessly with your Pebble Smartwatch. Instead of purchasing an expensive wireless remote, lugging around a laptop, and remembering to bring all of it's required accessories, I can now just use what I always have on me, my iPhone and Pebble Smartwatch.
+To further reduce my traveling load I built [Wrist Presenter](http://wristpresenter.com/ "Website for iOS, Android, and Pebble app Wrist Presenter"), a mobile app that lets you control presentations wirelessly with your Pebble Smartwatch. Instead of purchasing an expensive wireless remote, lugging around a laptop, and remembering to bring all of it's required accessories, I can now just use what I always have on me, my iPhone and Pebble Smartwatch.
 
 <div class="screenshot">
     <img src="/assets/2014-02-03-wristpresenter01@2x.png" width="512" alt="Wrist Presenter, presentations with your wrist">
