@@ -8,6 +8,12 @@ tags:
 - Objective-C
 ---
 
+---
+
+<i>__UPDATE 2014-02-12:__ See my [Improved Xcode Build Phases](/improved-xcode-build-phases) post for updated versions of these build phases.</i>
+
+---
+
 In an effort to improve my code quality I have started using some helpful Xcode Build Phases.
 
 Build phases are descriptions of tasks that need to be performed by Xcode during a build. Build Phases can be added from the Editor menu (Editor -> Add Build Phase).
