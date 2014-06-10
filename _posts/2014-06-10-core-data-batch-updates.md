@@ -38,7 +38,7 @@ On memory constrained devices, such as an iPhone, loading all entities into memo
 With iOS 8 and OS X Yosemite you no longer have to fetch all entities into memory and manually set attributes.
 
 ```objective-c
-NSBatchUpdateRequest *batchRequest = [NSBatchUpdateRequest batchUpdateRequestWithEntityName:@"rssItem"];
+NSBatchUpdateRequest *batchRequest = [NSBatchUpdateRequest batchUpdateRequestWithEntityName:[RSSItem entityName]];
 batchRequest.propertiesToUpdate = @{NSStringFromSelector(@selector(read)): [NSNumber numberWithBool:YES]};
 batchRequest.resultType = NSStatusOnlyResultType; // NSStatusOnlyResultType is the default
 batchRequest.affectedStores = @[...]; // Optional, stores this request should be sent to
