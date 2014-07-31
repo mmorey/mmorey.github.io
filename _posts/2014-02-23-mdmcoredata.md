@@ -2,6 +2,7 @@
 title: MDMCoreData
 layout: post
 description: A collection of lightweight Core Data classes for iOS and OS X.
+category: projects
 tags:
 - Objective-C
 - Core Data
