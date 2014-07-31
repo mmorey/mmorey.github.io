@@ -1,7 +1,8 @@
 ---
-title: Gifting apps with UIActivityViewController
+title: MDMGiftAppActivity - Gifting apps with UIActivityViewController
 layout: post
 description: Increase the chances of a user gifting your app by using a custom UIActivity with UIActivityViewController
+category: projects
 tags:
 - iOS
 ---
