@@ -2,7 +2,6 @@
 title: Top 10 Core Data Tools and Libraries
 layout: post
 description: A list of the top 10 core data tools and libraries, making it even easier to work with Core Data.
-category: projects
 tags:
 - Objective-C
 - Core Data
