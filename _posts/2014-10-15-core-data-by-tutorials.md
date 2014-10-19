@@ -12,7 +12,7 @@ So I finally wrote a book.
 
 <img src="/assets/2014-10-15-coredata_by_tutorials.png" alt="Core Data by Tutorials book cover">
 
-[Core Data by Tutorials: iOS 8 and Swift Edition](http://www.raywenderlich.com/store/core-data-tutorials-ios-8-swift-edition) is available now. I would love for you to purchase it or send it to friends who might enjoy it.
+[Core Data by Tutorials: iOS 8 and Swift Edition](http://www.raywenderlich.com/store/core-data-tutorials-ios-8-swift-edition?source=matthewmorey) is available now. I would love for you to purchase it or send it to friends who might enjoy it.
 
 #### Table of Contents:
 
@@ -29,4 +29,4 @@ So I finally wrote a book.
 <li><em>Chapter 10, Multiple Managed Object Contexts</em>: In this final chapter, you’ll expand the usual Core Data stack to include multiple managed object contexts. You’ll learn how this can improve perceived performance and help make your app architecture less monolithic and more compartmentalized.</li>
 </ul>
 
-[Core Data by Tutorials: iOS 8 and Swift Edition](http://www.raywenderlich.com/store/core-data-tutorials-ios-8-swift-edition)
+[Core Data by Tutorials: iOS 8 and Swift Edition](http://www.raywenderlich.com/store/core-data-tutorials-ios-8-swift-edition?source=matthewmorey)
