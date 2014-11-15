@@ -1,5 +1,5 @@
 ---
-layout: none
+
 ---
 # robotstxt.org/
 User-agent: *

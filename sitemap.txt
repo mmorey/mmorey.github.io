@@ -1,7 +1,7 @@
 ---
 # Remember to set production_url in your _config.yml file!
 title : Sitemap
-layout : none
+
 ---
 {% for page in site.pages %}{% if page.layout != nil %}{% if page.layout != 'feed' %}{{site.production_url}}{{ page.url | remove: 'index.html' }}
 {% endif %}{% endif %}{% endfor %}
