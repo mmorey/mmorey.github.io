@@ -1,7 +1,7 @@
 ---
-title: Interface Builder vs UIAppearance
+title: Interface Builder or UIAppearance
 layout: post
-description: Interface Builder or UIAppearnce, its a tough decision
+description: Interface Builder or UIAppearance, its a tough decision
 tags:
 - UIAppearance protocol
 - Interface Builder
@@ -25,6 +25,8 @@ UINavigationBar.appearance().barTintColor = UIColor.blueColor()
 ```
 
 Unfortunately styling done via the appearance protocol is not rendered in Interface Builder even if you have marked a view as `IBDesignable`.
+
+Also, Swift support for the `UIAppearance` protocol is currently limited. If you want to use `appearanceWhenContainedIn`, which I do, you have to [switch back to Objective-C](http://stackoverflow.com/a/26224862).
 
 I hate having styling information in multiple places. I would rather do everything in [code]({% post_url 2013-10-12-creating-uiviews-programmatically-with-auto-layout %}) or everything in Interface Builder.
 
