@@ -1,1 +1,1 @@
-Personal website for Matthew Morey.
+Personal website for [Matthew Morey](http://matthewmorey.com).
