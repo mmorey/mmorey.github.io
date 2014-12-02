@@ -13,7 +13,7 @@ keywords:
 baseurl: /
 url: http://localhost:4000
 production_url: "http://matthewmorey.com"
-paginate: 5
+paginate: 8
 markdown: redcarpet
 redcarpet:
   extensions: []
