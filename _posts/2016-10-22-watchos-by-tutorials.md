@@ -1,5 +1,5 @@
 ---
-title: "watchOS by Tutorials"
+title: "watchOS by Tutorials: watchOS 3 & Swift 3 Edition"
 layout: post
 description: watchOS by Tutorials teaches you everything you need to know to make your own apps for the Apple Watch.
 category: projects
