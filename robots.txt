@@ -1,7 +1,0 @@
----
-
----
-# robotstxt.org/
-User-agent: *
-Disallow:
-Sitemap: {{site.production_url}}/sitemap.xml

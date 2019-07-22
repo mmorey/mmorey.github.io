@@ -1,50 +1,84 @@
----
-layout: default
-redirects:
-- /blog
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Matthew Morey - Accomplished CTO</title>
+    <meta name="description" content="Personal website of Matthew Morey, an engineer, hacker, creator, author, and tinkerer who is on a quest to change the world with technology.">
+    <meta name="keywords" content="Matthew Morey,Matt(hew) Morey,CTO,iOS developer,programming,engineer,surfer,snowboarder,hacker,creator">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+      <header id="header">
+          <img id="logo" src="matthewmorey.png" alt="Matthew Morey logo">
+          <h1>Matthew Morey</h1>
+          <p>Accomplished CTO</p>
+      </header>
+      <main>
+        <section>
+          <p>
+            I'm an engineer, hacker, creator, author, and tinkerer who is on a quest to change the world with technology.
+          </p>
+          <p>
+            A native to Florida, I attended the University of Florida, graduating with a BS and MS degree in Electrical and Computer Engineering. During school I specialized in high performance computing and was awarded a <a href="https://patents.google.com/patent/US8218792?oq=matthew+morey">patent</a> for some of my research.
+          </p>
 
-{% for post in paginator.posts %}
-<div class="row-fluid">
-  <div class="span9">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <h5>{{ post.date | date_to_long_string }}</h5>
-    <p>{{ post.description }} <a href="{{ post.url }}" title="{{ post.title }}">&rarr;</a></p>
-  </div>
-</div>
-{% endfor %}
+          <p>
+            After school I worked on safety critical microcontrollers for Texas Instruments (TI) as a Product Engineer and later an <a href="https://www.youtube.com/watch?v=js-Vuk72t7Q">Applications Engineer</a>. The MCUs I worked on are used in many life saving applications such as  anti-lock breaks and airbags. My work at TI instilled the importance of  quality and doing things the right way.
+          </p>
 
-<div class="row-fluid">
-  <div class="span9">
-    <div class="pagination pagination-centered">
-      <ul>
-        {% if paginator.previous_page %}
-          {% if paginator.previous_page == 1 %}
-          <li><a href="/">&laquo;</a></li>
-          {% else %}
-          <li><a href="/page{{ paginator.previous_page }}">&laquo;</a></li>
-          {% endif %}
-        {% else %}
-        <li><span class="disabled">&laquo;</span></li>
-        {% endif %}
-        {% if paginator.page == 1 %}
-        <li><span class="active">1</span></li>
-        {% else %}
-        <li><a href="/">1</a></li>
-        {% endif %}
-        {% for count in (2..paginator.total_pages) %}
-          {% if count == paginator.page %}
-          <li><span class="active">{{ count }}</span></li>
-          {% else %}
-          <li><a href="/page{{ count }}">{{ count }}</a></li>
-          {% endif %}
-        {% endfor %}
-        {% if paginator.next_page %}
-        <li><a href="/page{{ paginator.next_page }}">&raquo;</a></li>
-        {% else %}
-        <li><span class="disabled">&raquo;</span></li>
-        {% endif %}
-      </ul>
-    </div>
-  </div>
-</div>
+          <p>
+            With the release of the iPhone I was inspired to create  mobile apps for some of my passions. I had a big hit with my first app, <a href="http://buoyexplorer.com/">Buoy Explorer</a>, which provides marine weather conditions for surfers and other water sports enthusiasts. When the Pebble Smartwatch came out I released <a href="http://wristpresenter.com/">Wrist Presenter</a> so that I could control presentations from my watch.
+          </p>
+
+          <p>
+            Along the way I have enjoyed <a href="https://www.youtube.com/watch?v=Du8ggtwNTaM">speaking</a> and <a href="https://amzn.to/2XW7z1x">writing books</a> on mobile development and engineering.
+          </p>
+
+          <p>
+            Recently I have been building and leading the engineering team at <a href="https://www.mjdinteractive.com/">MJD Interactive</a> as CTO and Partner. At MJD we focus on building digital experiences for theme parks, retailers, and consumer electronics brands such as Disney, GoPro, The Container Store, and Levi's.
+          </p>
+
+          <p>
+            Currently I'm growing a technology team around connected experiences at <a href="https://www.valtech.com/services/connected-experiences/">Valtech</a>.
+          </p>
+
+        </section>
+
+        <section id="share">
+
+          <nav class="buttons">
+            <a class="button github" href="https://github.com/mmorey/" target="_blank">
+              <em>Follow me</em> <strong>GitHub</strong>
+            </a>
+
+            <a class="button linkedin" href="https://www.linkedin.com/in/mmorey/" target="_blank">
+              <em>Connect on</em> <strong>LinkedIn</strong>
+            </a>
+
+            <a class="button email" href="mailto:&#109;&#101;&#064;&#109;&#097;&#116;&#116;&#104;&#101;&#119;&#109;&#111;&#114;&#101;&#121;&#046;&#099;&#111;&#109;" target="_blank">
+              <em>Write me</em> <strong>Email</strong>
+            </a>
+
+          </nav>
+
+          <p>Thanks for reading!</p>
+        </section>
+
+        <footer>
+          <a class="button" href="mailto:&#109;&#101;&#064;&#109;&#097;&#116;&#116;&#104;&#101;&#119;&#109;&#111;&#114;&#101;&#121;&#046;&#099;&#111;&#109;">Made by <strong>Matthew Morey</strong></a>
+      </footer>
+      </main>
+
+      <script>
+      var _gaq = [["_setAccount", "UA-25263796-1"], ["_trackPageview"]];
+(function(d, t) {
+  var g = d.createElement(t),
+    s = d.getElementsByTagName(t)[0];
+  g.src =
+    ("https:" == location.protocol ? "//ssl" : "//www") +
+    ".google-analytics.com/ga.js";
+  s.parentNode.insertBefore(g, s);
+})(document, "script");
+</script>
+  </body>
+</html>
