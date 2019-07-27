@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Matthew Morey - Accomplished CTO</title>
+    <meta name="description" content="Personal website of Matthew Morey, an engineer, hacker, creator, author, and leader who is on a quest to change the world with technology.">
+    <meta name="keywords" content="Matthew Morey,Matt(hew) Morey,CTO,iOS developer,programming,engineer,surfer,snowboarder,hacker,creator">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+    <style>
+      html, body { height:100%; margin:0; padding:0 }
+      div { position:fixed; width:50%; height:50% }
+      #NW { top:0;   left:0;   background:orange  }
+      #NE { top:0;   left:50%; background:blue    }
+      #SW { top:50%; left:0;   background:green   }
+      #SE { top:50%; left:50%; background:red     }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section>
+
+        <div id="NW">
+          <video autoplay loop muted playsinline id="video1"></video>
+        </div>
+        <div id="NE">
+          <video autoplay loop muted playsinline id="video2"></video>
+        </div>
+        <div id="SW">
+          <video autoplay loop muted playsinline id="video3"></video>
+        </div>
+        <div id="SE">
+          <video autoplay loop muted playsinline id="video4"></video>
+        </div>
+
+        <script>
+        var video = document.getElementById("video1");
+        if (Hls.isSupported()) {
+          var hls = new Hls();
+          hls.loadSource(
+            "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8"
+          );
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            video.play();
+          });
+        } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+          // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+          // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element through the `src` property.
+          // This is using the built-in support of the plain video element, without using hls.js.
+          // Note: it would be more normal to wait on the 'canplay' event below however on Safari (where you are most likely to find built-in HLS support) the video.src URL must be on the user-driven
+          // white-list before a 'canplay' event will be emitted; the last video event that can be reliably listened-for when the URL is not on the white-list is 'loadedmetadata'.
+          video.src =
+            "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8";
+          video.addEventListener("loadedmetadata", function() {
+            video.play();
+          });
+        }
+        </script>
+
+        <script>
+        var video = document.getElementById("video2");
+        if (Hls.isSupported()) {
+          var hls = new Hls();
+          hls.loadSource(
+            "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8"
+          );
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            video.play();
+          });
+        } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+          // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+          // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element through the `src` property.
+          // This is using the built-in support of the plain video element, without using hls.js.
+          // Note: it would be more normal to wait on the 'canplay' event below however on Safari (where you are most likely to find built-in HLS support) the video.src URL must be on the user-driven
+          // white-list before a 'canplay' event will be emitted; the last video event that can be reliably listened-for when the URL is not on the white-list is 'loadedmetadata'.
+          video.src =
+            "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8";
+          video.addEventListener("loadedmetadata", function() {
+            video.play();
+          });
+        }
+        </script>
+
+        <script>
+        var video = document.getElementById("video3");
+        if (Hls.isSupported()) {
+          var hls = new Hls();
+          hls.loadSource(
+            "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
+          );
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            video.play();
+          });
+        } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+          // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+          // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element through the `src` property.
+          // This is using the built-in support of the plain video element, without using hls.js.
+          // Note: it would be more normal to wait on the 'canplay' event below however on Safari (where you are most likely to find built-in HLS support) the video.src URL must be on the user-driven
+          // white-list before a 'canplay' event will be emitted; the last video event that can be reliably listened-for when the URL is not on the white-list is 'loadedmetadata'.
+          video.src =
+            "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8";
+          video.addEventListener("loadedmetadata", function() {
+            video.play();
+          });
+        }
+        </script>
+
+        <script>
+        var video = document.getElementById("video4");
+        if (Hls.isSupported()) {
+          var hls = new Hls();
+          hls.loadSource(
+            "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8"
+          );
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            video.play();
+          });
+        } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+          // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+          // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element through the `src` property.
+          // This is using the built-in support of the plain video element, without using hls.js.
+          // Note: it would be more normal to wait on the 'canplay' event below however on Safari (where you are most likely to find built-in HLS support) the video.src URL must be on the user-driven
+          // white-list before a 'canplay' event will be emitted; the last video event that can be reliably listened-for when the URL is not on the white-list is 'loadedmetadata'.
+          video.src =
+            "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8";
+          video.addEventListener("loadedmetadata", function() {
+            video.play();
+          });
+        }
+        </script>
+
+      </section>
+    </main>
+  </body>
+</html>
