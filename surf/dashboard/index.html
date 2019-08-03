@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>QuadCam</title>
+    <title>Dashboard</title>
     <meta name="robots" content="noindex, nofollow">
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
     <style>
-      html, body { height:100%; margin:0; padding:0 }
+      html, body { height:100%; margin:0; padding:0; background-color: white;}
       div { position:fixed; width:50%; height:50% }
       video { height: 100%;}
-      #NW { top:0; left:0;}
+      img { max-width: calc(100% / 2 - 20px);}
+
+      #NW { top:0; left:0; text-align: center; overflow: hidden;}
       #NW select { position: absolute; top: 1em; left: 1em;}
-      #NE { top:0; left:50%;}
+      #NE { top:0; left:50%; text-align: center; overflow: hidden;}
       #NE select { position: absolute; top: 1em; right: 1em;}
-      #SW { top:50%; left:0;}
+      #SW { top:50%; left:0; text-align: center; overflow: hidden;}
       #SW select { position: absolute; bottom: 1em; left: 1em;}
-      #SE { top:50%; left:50%;}
+      #SE { top:50%; left:50%; text-align: center; overflow: hidden;}
       #SE select { position: absolute; bottom: 1em; right: 1em;}
     </style>
   </head>
@@ -50,6 +52,10 @@
 
         </div>
         <div id="NE">
+          <img src="https://cdip.ucsd.edu/recent/model_images/socal_now.png">
+          <img src="https://cdip.ucsd.edu/recent/model_images/sd_hs.png">
+        </div>
+        <div id="SW">
           <select onchange="changeVideoIDWithValeOfSelectID('video2', 'select2')" id="select2">
             <option value="sunsetcliffs">Sunset Cliffs</option>
             <option value="oceanbeachsdpier">OB Pier</option>
@@ -70,61 +76,20 @@
             <option value="lowers">Lowers</option>
             <option value="steamerfixed">Steamer Lane</option>
           </select>
+
           <video autoplay loop muted playsinline id="video2"></video>
         </div>
-        <div id="SW">
-          <select onchange="changeVideoIDWithValeOfSelectID('video3', 'select3')" id="select3">
-            <option value="sunsetcliffs">Sunset Cliffs</option>
-            <option value="oceanbeachsdpier">OB Pier</option>
-            <option value="oceanbeachsd">OB</option>
-            <option value="missionbeach">MB</option>
-            <option value="pacificbeach">PB</option>
-            <option value="pacificbeachsouth">PB South</option>
-            <option value="tourmaline">Tourmaline</option>
-            <option value="windansea">Windansea</option>
-            <option value="lajollashores">Shores</option>
-            <option value="scripps">Scripps</option>
-            <option value="seasidereef">Seaside</option>
-            <option value="cardiffreef">Cardiff Reef OV</option>
-            <option value="cardiffreefsouth">Cardiff Reef South</option>
-            <option value="swamis">Swamis</option>
-            <option value="swamisov">SwamisOV</option>
-            <option value="thepointsanonofre">San Onofre</option>
-            <option value="lowers" selected>Lowers</option>
-            <option value="steamerfixed">Steamer Lane</option>
-          </select>
-          <video autoplay loop muted playsinline id="video3"></video>
-        </div>
         <div id="SE">
-          <select onchange="changeVideoIDWithValeOfSelectID('video4', 'select4')" id="select4">
-            <option value="sunsetcliffs">Sunset Cliffs</option>
-            <option value="oceanbeachsdpier">OB Pier</option>
-            <option value="oceanbeachsd">OB</option>
-            <option value="missionbeach">MB</option>
-            <option value="pacificbeach">PB</option>
-            <option value="pacificbeachsouth">PB South</option>
-            <option value="tourmaline">Tourmaline</option>
-            <option value="windansea">Windansea</option>
-            <option value="lajollashores">Shores</option>
-            <option value="scripps">Scripps</option>
-            <option value="seasidereef">Seaside</option>
-            <option value="cardiffreef">Cardiff Reef OV</option>
-            <option value="cardiffreefsouth">Cardiff Reef South</option>
-            <option value="swamis">Swamis</option>
-            <option value="swamisov">SwamisOV</option>
-            <option value="thepointsanonofre">San Onofre</option>
-            <option value="lowers">Lowers</option>
-            <option value="steamerfixed" selected>Steamer Lane</option>
-          </select>
-          <video autoplay loop muted playsinline id="video4"></video>
+          <!-- <img src="https://cdip.ucsd.edu/plotserver/sst_climatology/?stn=201&un=1&stream=p1&tz=PDT"> -->
+          <img src="https://cdip.ucsd.edu/themes/media/images/plots/9band_plot.gd?tz=PDT&units=english&spname=sp220012019">
+          <img src="https://cdip.ucsd.edu/themes/media/images/plots/9band_plot.gd?tz=PDT&units=english">
         </div>
 
 
         <script>
           setVideoIDToLocation("video1", "pacificbeach");
           setVideoIDToLocation("video2", "windansea");
-          setVideoIDToLocation("video3", "lowers");
-          setVideoIDToLocation("video4", "steamerfixed");
+
 
           function changeVideoIDWithValeOfSelectID(videoID, selectID) {
             d = document.getElementById(selectID).value;
