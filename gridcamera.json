@@ -1,0 +1,49 @@
+{
+  "settings": {},
+  "streamingViews": [
+    {
+      "name": "Pacific Beach",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Crystal Pier",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8"          
+        },
+        {
+          "name": "Law Street",
+          "url": "https://live.hdontap.com/hls/hosb5/pacificbeach_pacterrace.stream/playlist.m3u8"          
+        },
+        {
+          "name": "Pump House",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8"          
+        },
+        {
+          "name": "PB Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8"          
+        }
+      ]
+    },
+    {
+      "name": "San Onofre / Trestles",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Kiosk 1",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostatekiosk/playlist.m3u8"          
+        },
+        {
+          "name": "Kiosk 2",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"          
+        },
+        {
+          "name": "Dog Patch",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8"          
+        },
+        {
+          "name": "Old Man's",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmansanonofre/playlist.m3u8"          
+        }
+      ]
+    }
+  ]
+}
