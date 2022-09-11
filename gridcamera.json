@@ -2,7 +2,7 @@
   "streamingViews": [
     {
       "name": "Pacific Beach",
-      "audioStreamURL": "https://ice1.somafm.com/groovesalad-128-aac",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
           "name": "Crystal Pier",
@@ -65,7 +65,113 @@
       ]
     },
     {
-      "name": "North San Diego County",
+      "name": "South San Diego County - All",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Torrey Pines State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-torreypines/playlist.m3u8"
+        },
+        {
+          "name": "Torrey Pines State Beach North",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-torreypinesnorth/playlist.m3u8"
+        },
+        {
+          "name": "Torrey Pines Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-torreypinesov/playlist.m3u8"
+        },
+        {
+          "name": "Blacks",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8"
+        },
+        {
+          "name": "Scripps Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8"
+        },
+        {
+          "name": "Scripps",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8"
+        },
+        {
+          "name": "Scripps",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8"
+        },
+        {
+          "name": "La Jolla Shores",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8"
+        },
+        {
+          "name": "Windansea",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
+        },
+        {
+          "name": "Old Man's at Tourmaline",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8"
+        },
+        {
+          "name": "Old Man's at Tourmaline",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8"
+        },
+        {
+          "name": "Pacific Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8"
+        },
+        {
+          "name": "PB",
+          "url": "https://live.hdontap.com/hls/hosb5/pacificbeach_pacterrace.stream/playlist.m3u8"
+        },
+        {
+          "name": "Crystal Pier",
+          "url": "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8"
+        },
+        {
+          "name": "Pacific Beach, South",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeachsouth/playlist.m3u8"
+        },
+        {
+          "name": "Pacific Beach Dr",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pbdrive/playlist.m3u8"
+        },
+        {
+          "name": "Mission Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-missionbeach/playlist.m3u8"
+        },
+        {
+          "name": "Ocean Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oceanbeachsd/playlist.m3u8"
+        },
+        {
+          "name": "Ocean Beach Pier ",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oceanbeachsdpier/playlist.m3u8"
+        },
+        {
+          "name": "Sunset Cliffs",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sunsetcliffs/playlist.m3u8"
+        },
+        {
+          "name": "Point Loma",
+          "url": "https://b9.hdrelay.com/camera/7314af19-096b-4ab1-9cff-f5b2c33afa4f/relay/playlist.m3u"
+        },
+        {
+          "name": "Imperial Beach Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpierns/playlist.m3u8"
+        },
+        {
+          "name": "Imperial Beach Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpiernsov/playlist.m3u8"
+        },
+        {
+          "name": "Imperial Beach Pier, Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpierss/playlist.m3u8"
+        },
+        {
+          "name": "Imperial Beach Pier, Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpierssov/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "North San Diego County - All",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
