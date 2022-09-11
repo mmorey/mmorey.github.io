@@ -379,6 +379,288 @@
       ]
     },
     {
+      "name": "Orange County - All",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Seal Beach Jetty",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachjetty/playlist.m3u8"
+        },
+        {
+          "name": "Seal Beach Jetty Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachjettyov/playlist.m3u8"
+        },
+        {
+          "name": "Seal Beach Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachns/playlist.m3u8"
+        },
+        {
+          "name": "Seal Beach Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachnsov/playlist.m3u8"
+        },
+        {
+          "name": "Seal Beach Pier, Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachss/playlist.m3u8"
+        },
+        {
+          "name": "Seal Beach Pier, Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachssov/playlist.m3u8"
+        },
+        {
+          "name": "Surfside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-surfside/playlist.m3u8"
+        },
+        {
+          "name": "Anderson St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-andersonst/playlist.m3u8"
+        },
+        {
+          "name": "Anderson St. Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-andersonstov/playlist.m3u8"
+        },
+        {
+          "name": "Bolsa Chica State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicastsouth/playlist.m3u8"
+        },
+        {
+          "name": "Bolsa Chica State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicastnorth/playlist.m3u8"
+        },
+        {
+          "name": "Bolsa Chica State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachica/playlist.m3u8"
+        },
+        {
+          "name": "Bolsa Chica State Beach N.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicastnorth/playlist.m3u8"
+        },
+        {
+          "name": "Bolsa Chica Jetties",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicajetties/playlist.m3u8"
+        },
+        {
+          "name": "Goldenwest",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-goldenwest/playlist.m3u8"
+        },
+        {
+          "name": "20th Street",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-twentiethst/playlist.m3u8"
+        },
+        {
+          "name": "17th St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-seventeenthst/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier, Northside Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-9thstov/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpierns/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiernsclose/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiernsov/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-9thstov/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiersclose/playlist.m3u8"
+        },
+        {
+          "name": "HB Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbss/playlist.m3u8"
+        },
+        {
+          "name": "HB Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiersclose/playlist.m3u8"
+        },
+        {
+          "name": "HB Pier, Southside Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpierssov/playlist.m3u8"
+        },
+        {
+          "name": "Huntington St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-huntingtonstov/playlist.m3u8"
+        },
+        {
+          "name": "Huntington State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbstatebeach/playlist.m3u8"
+        },
+        {
+          "name": "Huntington State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbstatebeachn/playlist.m3u8"
+        },
+        {
+          "name": "River Jetties",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjetties/playlist.m3u8"
+        },
+        {
+          "name": "River Jetties North",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjettiesnorth/playlist.m3u8"
+        },
+        {
+          "name": "River Jetties South",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjettiessouth/playlist.m3u8"
+        },
+        {
+          "name": "56th Street Close-up",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixclose/playlist.m3u8"
+        },
+        {
+          "name": "56th St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixnewport/playlist.m3u8"
+        },
+        {
+          "name": "56th St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixclose/playlist.m3u8"
+        },
+        {
+          "name": "54th St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftyfournewport/playlist.m3u8"
+        },
+        {
+          "name": "Newport Jetties",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-newportjetties/playlist.m3u8"
+        },
+        {
+          "name": "40th St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fortiethstnewport/playlist.m3u8"
+        },
+        {
+          "name": "36th St.",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thirtysixnewport/playlist.m3u8"
+        },
+        {
+          "name": "Lower Jetties",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowerjetties/playlist.m3u8"
+        },
+        {
+          "name": "Blackies",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blackies/playlist.m3u8"
+        },
+        {
+          "name": "Blackies Close-up",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blackiesclose/playlist.m3u8"
+        },
+        {
+          "name": "Newport Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-newportpierns/playlist.m3u8"
+        },
+        {
+          "name": "Newport Pier, Southside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-newportpierss/playlist.m3u8"
+        },
+        {
+          "name": "The Wedge",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-wedge/playlist.m3u8"
+        },
+        {
+          "name": "The Wedge",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-wedgejetty/playlist.m3u8"
+        },
+        {
+          "name": "Corona del Mar",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-coronadelmar/playlist.m3u8"
+        },
+        {
+          "name": "Crystal Cove",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-crystalcove/playlist.m3u8"
+        },
+        {
+          "name": "Aliso Creek",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-alisocreekbeach/playlist.m3u8"
+        },
+        {
+          "name": "Aliso Creek",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-alisocreek/playlist.m3u8"
+        },
+        {
+          "name": "Salt Creek",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-saltcreek/playlist.m3u8"
+        },
+        {
+          "name": "Salt Creek Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-saltcreekov/playlist.m3u8"
+        },
+        {
+          "name": "Strands",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-strands/playlist.m3u8"
+        },
+        {
+          "name": "Boneyard ",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-boneyard/playlist.m3u8"
+        },
+        {
+          "name": "Doheny State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dohenysb/playlist.m3u8"
+        },
+        {
+          "name": "Doheny Rivermouth",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dohenyrivermouth/playlist.m3u8"
+        },
+        {
+          "name": "San Clemente Pier, Northside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scpiernorth/playlist.m3u8"
+        },
+        {
+          "name": "T-Street Lefts",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetlefts/playlist.m3u8"
+        },
+        {
+          "name": "T-Street",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreet/playlist.m3u8"
+        },
+        {
+          "name": "T-Street Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetov/playlist.m3u8"
+        },
+        {
+          "name": "San Clemente State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanclementesb/playlist.m3u8"
+        },
+        {
+          "name": "Upper Trestles",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-upperstrestles/playlist.m3u8"
+        },
+        {
+          "name": "Lower Trestles",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8"
+        },
+        {
+          "name": "Church",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-church/playlist.m3u8"
+        },
+        {
+          "name": "The Point at San Onofre",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8"
+        },
+        {
+          "name": "San Onofre State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmansanonofre/playlist.m3u8"
+        },
+        {
+          "name": "San Onofre State Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8"
+        },
+        {
+          "name": "San Onofre State Beach Kiosk",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostatekiosk/playlist.m3u8"
+        },
+        {
+          "name": "San Onofre State Beach Line Cam",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Santa Cruz",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
