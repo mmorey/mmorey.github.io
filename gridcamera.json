@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "South San Diego County - All",
+      "name": "South San Diego County - 1 of 2",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
@@ -105,7 +105,7 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
         },
         {
-          "name": "Old Man's at Tourmaline",
+          "name": "PB Point",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8"
         },
         {
@@ -131,7 +131,13 @@
         {
           "name": "Pacific Beach Dr",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pbdrive/playlist.m3u8"
-        },
+        }
+      ]
+    },
+    {
+      "name": "South San Diego County - 2 of 2",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
         {
           "name": "Mission Beach",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-missionbeach/playlist.m3u8"
@@ -171,7 +177,7 @@
       ]
     },
     {
-      "name": "North San Diego County - All",
+      "name": "North San Diego County - 1 of 2",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
@@ -253,7 +259,13 @@
         {
           "name": "Grandview",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-grandview/playlist.m3u8"
-        },
+        }
+      ]
+    },
+    {
+      "name": "North San Diego County - 2 of 2",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
         {
           "name": "Beacons",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-beacons/playlist.m3u8"
@@ -379,7 +391,7 @@
       ]
     },
     {
-      "name": "Orange County - All",
+      "name": "Orange County - 1 of 4",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
@@ -445,7 +457,13 @@
         {
           "name": "20th Street",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-twentiethst/playlist.m3u8"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Orange County - 2 of 4",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
         {
           "name": "17th St.",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-seventeenthst/playlist.m3u8"
@@ -509,7 +527,13 @@
         {
           "name": "River Jetties South",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjettiessouth/playlist.m3u8"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Orange County - 3 of 4",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
         {
           "name": "56th Street Close-up",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixclose/playlist.m3u8"
@@ -573,7 +597,13 @@
         {
           "name": "Crystal Cove",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-crystalcove/playlist.m3u8"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Orange County - 4 of 4",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
         {
           "name": "Aliso Creek",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-alisocreekbeach/playlist.m3u8"
@@ -649,10 +679,6 @@
         {
           "name": "San Onofre State Beach",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8"
-        },
-        {
-          "name": "San Onofre State Beach Kiosk",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostatekiosk/playlist.m3u8"
         },
         {
           "name": "San Onofre State Beach Line Cam",
