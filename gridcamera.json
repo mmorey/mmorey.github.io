@@ -881,6 +881,48 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebayeast/chunklist.m3u8"
         }
       ]
+    },
+    {
+      "name": "Oahu North Shore Favorites",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Pua Ena Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
+        },
+        {
+          "name": "Laniakea",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
+        },
+        {
+          "name": "Jockos",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-jockos/chunklist.m3u8"
+        },
+        {
+          "name": "Chuns",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+        },
+        {
+          "name": "Rocky Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
+        },
+        {
+          "name": "Sunset",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
+        },
+        {
+          "name": "Velzyland",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay West",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+        }
+      ]
     }
   ]
 }
