@@ -24,7 +24,7 @@
     },
     {
       "name": "South San Diego",
-      "audioStreamURL": "https://ice1.somafm.com/groovesalad-128-aac",
+      "audioStreamURL": "http://stream.radioparadise.com/aac-320",
       "videoStreams": [
         {
           "name": "Point Loma",
