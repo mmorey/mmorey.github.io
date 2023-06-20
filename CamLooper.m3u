@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, Point Loma
+https://b9.hdrelay.com/camera/7314af19-096b-4ab1-9cff-f5b2c33afa4f/relay/playlist.m3u
+#EXTINF:-1, SD Downtown-Airport-Bay
+https://live.hdontap.com/hls/hosb4/ngrp:contour-lofts_downtown-sd_4k-ptz.stream_all/playlist.m3u8
+#EXTINF:-1, Crystal Pier and South
+https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8
+#EXTINF:-1, Crystal Pier
+https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/chunklist.m3u8
+#EXTINF:-1, PB Point
+https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8?
+#EXTINF:-1, Windansea
+https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8
+#EXTINF:-1, La Jolla Shores
+https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8
+#EXTINF:-1, Scripps South Side
+https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8
+#EXTINF:-1, Scripps North Side
+https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8
+#EXTINF:-1, Blacks
+https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8
+#EXTINF:-1, San Onofre The Point
+https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8
+#EXTINF:-1, Lower Trestles
+https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8
