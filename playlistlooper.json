@@ -62,8 +62,16 @@
     },
     {
       "name": "Tricia's SD Favorites",
-      "audioStreamURL": "https://stream.radioparadise.com/aac-320",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
+        {
+          "name": "SD Bay",
+          "url": "https://live.hdontap.com/hls/hosb4/ngrp:contour-lofts_downtown-sd_4k-ptz.stream_all/playlist.m3u8"
+        },
+        {
+          "name": "Crystal Pier & MB",
+          "url": "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8"
+        },
         {
           "name": "PB Point",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8"
