@@ -5,8 +5,12 @@
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
-          "name": "Crystal Pier",
+          "name": "Crystal Pier & MB",
           "url": "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8"
+        },
+        {
+          "name": "Crystal Pier",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8"
         },
         {
           "name": "Law Street",
@@ -23,24 +27,12 @@
       ]
     },
     {
-      "name": "South San Diego",
+      "name": "Matt's SD Favorites",
       "audioStreamURL": "https://stream.radioparadise.com/aac-320",
       "videoStreams": [
         {
           "name": "Point Loma",
           "url": "https://b9.hdrelay.com/camera/7314af19-096b-4ab1-9cff-f5b2c33afa4f/relay/playlist.m3u"
-        },
-        {
-          "name": "Crystal Pier",
-          "url": "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8"
-        },
-        {
-          "name": "PB",
-          "url": "https://live.hdontap.com/hls/hosb5/pacificbeach_pacterrace.stream/playlist.m3u8"
-        },
-        {
-          "name": "Pump House",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8"
         },
         {
           "name": "PB Point",
@@ -51,8 +43,8 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
         },
         {
-          "name": "La Jolla Shores",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8"
+          "name": "Scripps South",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8"
         },
         {
           "name": "Scripps North",
@@ -61,7 +53,76 @@
         {
           "name": "Blacks",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8"
+        },
+        {
+          "name": "Swamis",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-swamisclose/playlist.m3u8"
         }
       ]
-    }]
+    },
+    {
+      "name": "Tricia's SD Favorites",
+      "audioStreamURL": "https://stream.radioparadise.com/aac-320",
+      "videoStreams": [
+        {
+          "name": "PB Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8"
+        },
+        {
+          "name": "La Jolla Shores",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8"
+        },
+        {
+          "name": "Swamis",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-swamisclose/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "World Famous Waves",
+      "audioStreamURL": "https://stream.radioparadise.com/aac-320",
+      "videoStreams": [
+        {
+          "name": "Swamis",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-swamisclose/playlist.m3u8"
+        },
+        {
+          "name": "Lower Trestles",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8"
+        },
+        {
+          "name": "Steamer Lane",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-steamer/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Bowls",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/playlist.m3u8"
+        },
+        {
+          "name": "Puerto Escondido",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/mx-puertocloseup/playlist.m3u8"
+        },
+        {
+          "name": "J Bay",
+          "url": " https://cams.cdn-surfline.com/cdn-int/za-jeffreysbayfront/playlist.m3u8"
+        },
+        {
+          "name": "Teahupoo",
+          "url": "https://cams.cdn-surfline.com/cdn-int/pf-teahupoo/playlist.m3u8"
+        },
+        {
+          "name": "Snapper Rocks",
+          "url": "https://cams.cdn-surfline.com/cdn-au/au-snapper/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
