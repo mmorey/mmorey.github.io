@@ -99,8 +99,20 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8"
         },
         {
+          "name": "The Wedge",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-wedge/playlist.m3u8"
+        },
+        {
           "name": "Steamer Lane",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-steamer/playlist.m3u8"
+        },
+        {
+          "name": "Punta Roca",
+          "url": "https://cams.cdn-surfline.com/cdn-ec/sa-puntaroca/playlist.m3u8"
+        },
+        {
+          "name": "Chicama",
+          "url": "https://cams.cdn-surfline.com/cdn-int/pe-chicama/playlist.m3u8"
         },
         {
           "name": "Pipeline",
@@ -119,6 +131,10 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/mx-puertocloseup/playlist.m3u8"
         },
         {
+          "name": "Raglan",
+          "url": "https://cams.cdn-surfline.com/cdn-au/nz-raglanpoints/playlist.m3u8"
+        },
+        {
           "name": "J Bay",
           "url": "https://cams.cdn-surfline.com/cdn-int/za-jeffreysbayfront/playlist.m3u8"
         },
@@ -129,6 +145,10 @@
         {
           "name": "Snapper Rocks",
           "url": "https://cams.cdn-surfline.com/cdn-au/au-snapper/playlist.m3u8"
+        },
+        {
+          "name": "Mundaka",
+          "url": "https://cams.cdn-surfline.com/cdn-int/es-mundakaov/playlist.m3u8"
         }
       ]
     }
