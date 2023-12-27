@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Surf Dashboard</title>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        background-color: black;
+      }
+      #dashboard {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(800px, 1fr));
+        grid-auto-rows: 453px;
+        gap: 10px;
+        width: 100%;
+        max-width: 100vw;
+        box-sizing: border-box;
+        padding: 10px;
+      }
+      /*
+      dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(846px, 1fr));
+  grid-auto-rows: 479px;
+  
+  width: 100%;
+  max-width: 100vw;
+  box-sizing: border-box;
+  
+}
+*/
+      .rectangle {
+        width: 100%;
+        height: 100%;
+        border: 1px solid #333;
+        position: relative;
+        overflow: hidden;
+      }
+      .selector {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 2;
+        opacity: 30%;
+      }
+      .content {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+      img,
+      video {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  </head>
+  <body>
+    <div id="dashboard"></div>
+    <script>
+      // Return date string with format year, month, day ex: 20231222
+      function getDateString() {
+        const date = new Date();
+        const year = date.getFullYear();
+        const month = date.getMonth() + 1;
+        const day = date.getDate();
+
+        return `${year}${month < 10 ? "0" : ""}${month}${
+          day < 10 ? "0" : ""
+        }${day}`;
+      }
+
+      // Return 3 letter timezon string, ex: PST
+      function getTimezoneString() {
+        const now = new Date();
+        return now
+          .toLocaleTimeString("en-us", { timeZoneName: "short" })
+          .split(" ")[2];
+      }
+
+      function generateRectangles() {
+        const dashboard = document.getElementById("dashboard");
+
+        const timezoneString = getTimezoneString();
+        const dateString = getDateString();
+
+        const contentOptions = [
+          {
+            url: "https://cdip.ucsd.edu/recent/model_images/socal_now.png",
+            name: "CDIP SoCal Now",
+            hyperlink:
+              "https://cdip.ucsd.edu/m/nowcast/?z=9&lat=33.5&lon=-118.8&wave_model=socal",
+          },
+          {
+            url: "http://cdip.ucsd.edu/recent/model_images/san_diego.png",
+            name: "CDIP San Diego Now",
+          },
+          {
+            url: "https://cdip.ucsd.edu/recent/model_images/sd_hs.png",
+            name: "CDIP SD Swell Height Prediction",
+          },
+          {
+            url: `http://cdip.ucsd.edu/themes/media/images/plots/9band_plot.gd?tz=${timezoneString}&units=english&spname=sp19101${dateString}`,
+            name: "CDIP 191 9 Band Plot",
+            hyperlink: "http://cdip.ucsd.edu/m/products/9band/?stn=191p1",
+          },
+          {
+            url: `http://cdip.ucsd.edu/themes/media/images/plots/9band_plot.gd?tz=${timezoneString}&units=english&spname=sp22001${dateString}`,
+            name: "CDIP 220 9 Band Plot",
+            hyperlink: "http://cdip.ucsd.edu/m/products/9band/?stn=220p1",
+          },
+          {
+            url: `https://www.tideschart.com/tide-charts/en/Pacific-Beach-Point-San-Diego-County-California-United-States-tide-chart-30038079-ft.png?date=${dateString}`,
+            name: "PB Point Tides",
+            hyperlink:
+              "https://www.tideschart.com/United-States/California/San-Diego-County/Pacific-Beach-Point/",
+          },
+          {
+            url: "https://forecast.weather.gov/meteograms/Plotter.php?lat=32.7923&lon=-117.2519&wfo=SGX&zcode=CAZ043&gset=18&gdiff=3&unit=0&tinfo=PY8&ahour=0&pcmd=11011001000000000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6",
+            name: "PB Point Weather",
+            hyperlink:
+              "https://forecast.weather.gov/MapClick.php?w0=t&w1=td&w2=hi&w3=sfcwind&w3u=1&AheadHour=0&Submit=Submit&FcstType=graphical&textField1=32.7923&textField2=-117.2519&site=all&unit=0&dd=&bw=",
+          },
+          {
+            url: "http://www.stormsurfing.com/stormuser2/images/local/sd_srf.png",
+            name: "Stormsurf SD Surf Forecast",
+            hyperlink:
+              "http://www.stormsurfing.com/cgi/display2.cgi?a=t19;b=sd_srf",
+          },
+          {
+            url: "https://b9.hdrelay.com/camera/7314af19-096b-4ab1-9cff-f5b2c33afa4f/relay/playlist.m3u",
+            name: "Point Loma",
+          },
+          {
+            url: "https://edge06.nginx.hdontap.com/hosb4/ngrp:contour-lofts_downtown-sd_4k-ptz.stream_all/chunklist_w852105915_b16873891.m3u8",
+            name: "SD Downtown-Airport-Bay",
+          },
+          {
+            url: "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8",
+            name: "Crystal Pier and South",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8",
+            name: "Crystal Pier",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8",
+            name: "PB Point",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8",
+            name: "Windansea",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8",
+            name: "La Jolla Shores",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8",
+            name: "Scripps South Side",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8",
+            name: "Scripps North Side",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8",
+            name: "Blacks",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8",
+            name: "San Onofre The Point",
+          },
+          {
+            url: "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8",
+            name: "Lower Trestles",
+          },
+        ];
+
+        for (let i = 0; i < 12; i++) {
+          const rectangle = document.createElement("div");
+          rectangle.classList.add("rectangle");
+          const selector = document.createElement("select");
+          selector.classList.add("selector");
+          selector.onchange = (event) =>
+            loadContent(rectangle, event.target.value, i);
+
+          const defaultOption = document.createElement("option");
+          defaultOption.textContent = "Select Content";
+          defaultOption.disabled = true;
+          defaultOption.selected = true;
+          selector.appendChild(defaultOption);
+
+          contentOptions.forEach((optionData) => {
+            const option = document.createElement("option");
+            option.value = optionData.url;
+            option.textContent = optionData.name;
+            selector.appendChild(option);
+          });
+
+          // Check and apply saved selection from localStorage
+          const savedUrl = localStorage.getItem(`rectangle_${i}`);
+          if (savedUrl) {
+            loadContent(rectangle, savedUrl, i);
+            selector.value = savedUrl;
+
+            // find the saved url in the contentOptions array and check if it has a hyperlink,
+            // if it does then add it as an onclick event to the rectangle
+            const optionData = contentOptions.find(
+              (option) => option.url === savedUrl
+            );
+            if (optionData.hyperlink) {
+              rectangle.onclick = () => {
+                window.open(optionData.hyperlink, "_blank");
+              };
+            }
+          }
+
+          rectangle.appendChild(selector);
+          dashboard.appendChild(rectangle);
+        }
+      }
+
+      function loadContent(rectangle, url, index) {
+        // Clear existing content
+        const existingContent = rectangle.querySelector(".content");
+        if (existingContent) {
+          rectangle.removeChild(existingContent);
+        }
+
+        if (url.includes(".m3u8")) {
+          // Create a video element for .m3u8
+          const video = document.createElement("video");
+          video.classList.add("content");
+          video.controls = true;
+          video.autoplay = true;
+          rectangle.appendChild(video);
+
+          // Check if HLS is supported natively or by hls.js
+          if (video.canPlayType("application/vnd.apple.mpegurl")) {
+            // For browsers that can play HLS without hls.js
+            video.src = url;
+          } else if (Hls.isSupported()) {
+            const hls = new Hls();
+            hls.loadSource(url);
+            hls.attachMedia(video);
+          } else {
+            console.error("HLS format not supported");
+          }
+        } else {
+          // Create an image element for standard images
+          const img = document.createElement("img");
+          img.src = url;
+          img.classList.add("content");
+          img.alt = "Loaded content";
+          rectangle.appendChild(img);
+        }
+        // Save selection to localStorage
+        localStorage.setItem(`rectangle_${index}`, url);
+      }
+
+      window.onload = generateRectangles;
+    </script>
+  </body>
+</html>
