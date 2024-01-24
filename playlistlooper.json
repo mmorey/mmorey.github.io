@@ -1,6 +1,116 @@
 {
   "streamingViews": [
     {
+      "name": "North Shore",
+      "audioStreamURL": "https://stream.radioparadise.com/aac-320",
+      "videoStreams": [
+        {
+          "name": "Haleiwa",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
+        },
+        {
+          "name": "Haleiwa Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwaov/playlist.m3u8"
+        },
+        {
+          "name": "Puaena Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/playlist.m3u8"
+        },
+        {
+          "name": "Laniakea",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/playlist.m3u8"
+        },
+        {
+          "name": "Laniakea Inside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakeainside/playlist.m3u8"
+        },
+        {
+          "name": "Jocko's",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-jockos/playlist.m3u8"
+        },
+        {
+          "name": "Chun's",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+        },
+        {
+          "name": "Waimea Bay",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waimea/playlist.m3u8"
+        },
+        {
+          "name": "Waimea Bay Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waimeabaysb/playlist.m3u8"
+        },
+        {
+          "name": "Log Cabins",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-logcabins/playlist.m3u8"
+        },
+        {
+          "name": "Rockpile",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpile/playlist.m3u8"
+        },
+        {
+          "name": "Off The Wall",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-offthewall/playlist.m3u8"
+        },
+        {
+          "name": "Backdoor",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/playlist.m3u8"
+        },
+        {
+          "name": "Backdoor Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/playlist.m3u8"
+        },
+        {
+          "name": "Ehukai Beach Park",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-ehukai/playlist.m3u8"
+        },
+        {
+          "name": "Chambers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chambers/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point Rights",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypointrights/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point Lefts",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypointlefts/playlist.m3u8"
+        },
+        {
+          "name": "Sunset Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/playlist.m3u8"
+        },
+        {
+          "name": "Sunset Beach Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeachov/playlist.m3u8"
+        },
+        {
+          "name": "Velzyland",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay West",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay East",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebayeast/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Pacific Beach",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
