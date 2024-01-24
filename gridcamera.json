@@ -849,8 +849,8 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
         },
         {
-          "name": "Gas Chambers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-gaschambers/chunklist.m3u8"
+          "name": "Chambers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chambers/chunklist.m3u8"
         },
         {
           "name": "Rocky Point",
@@ -887,16 +887,16 @@
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
+          "name": "Haleiwa",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
+        },
+        {
           "name": "Pua Ena Point",
           "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
         },
         {
           "name": "Laniakea",
           "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
-        },
-        {
-          "name": "Jockos",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-jockos/chunklist.m3u8"
         },
         {
           "name": "Chuns",
