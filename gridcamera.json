@@ -945,6 +945,28 @@
           "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
         }
       ]
+    },
+    {
+      "name": "Pipeline and Backdoor",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Backdoor 1",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
+        },
+        {
+          "name": "Backdoor 2",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
+        },
+        {
+          "name": "Pipeline 1",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+        },
+        {
+          "name": "Pipeline 2",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
+        }
+      ]
     }
   ]
 }
