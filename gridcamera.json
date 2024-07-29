@@ -5,12 +5,20 @@
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
         {
+          "name": "Water Bar",
+          "url": "https://cdn3.wowza.com/5/UkEwaW9JZXk3a2xE/California/pbwaterbarsd.stream/playlist.m3u8"
+        },
+        {
           "name": "Crystal Pier",
           "url": "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8"
         },
         {
-          "name": "Law Street",
+          "name": "Pacific Terrace",
           "url": "https://live.hdontap.com/hls/hosb1/pacificbeach_pacterrace.stream/playlist.m3u8"
+        },
+        {
+          "name": "Pacific View Inn",
+          "url": "https://cdn3.wowza.com/5/cWlWU1JsR24rMnA5/California/pacificbeach.stream/playlist.m3u8"
         },
         {
           "name": "Pump House",
