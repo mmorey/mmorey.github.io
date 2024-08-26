@@ -145,12 +145,20 @@
           "url": "https://b9.hdrelay.com/camera/7314af19-096b-4ab1-9cff-f5b2c33afa4f/relay/playlist.m3u"
         },
         {
+          "name": "Crystal Pier",
+          "url": "https://live.hdontap.com/hls/hosb1/hdontap_mission_beach.stream/playlist.m3u8"
+        },
+        {
+          "name": "PB",
+          "url": "https://live.hdontap.com/hls/hosb1/pacificbeach_pacterrace.stream/playlist.m3u8"
+        },
+        {
           "name": "PB Point",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmanstourmaline/playlist.m3u8"
         },
         {
-          "name": "Windansea",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
+          "name": "Windansea (SurfersView)",
+          "url": "https://cdn3.wowza.com/5/U2lzUXNxenhyV2Zk/sunba/windansea/playlist.m3u8"
         },
         {
           "name": "Scripps South",
