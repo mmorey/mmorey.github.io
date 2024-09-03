@@ -55,12 +55,12 @@
           "url": "https://cdn3.wowza.com/5/U2lzUXNxenhyV2Zk/sunba/windansea/playlist.m3u8"
         },
         {
-          "name": "Windansea (Surfline)",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
-        },
-        {
           "name": "La Jolla Shores",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8"
+        },
+        {
+          "name": "Scripps South",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8"
         },
         {
           "name": "Scripps North",
@@ -69,6 +69,48 @@
         {
           "name": "Blacks",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "San Onofre / Trestles",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Kiosk 1",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostatekiosk/playlist.m3u8"
+        },
+        {
+          "name": "Kiosk 2",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"
+        },
+        {
+          "name": "Dog Patch",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8?"
+        },
+        {
+          "name": "Old Man's",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmansanonofre/playlist.m3u8"
+        },
+        {
+          "name": "The Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8"
+        },
+        {
+          "name": "Church",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-church/playlist.m3u8"
+        },
+        {
+          "name": "Lowers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowerslefts/playlist.m3u8"
+        },
+        {
+          "name": "Uppers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-upperstrestles/playlist.m3u8"
+        },
+        {
+          "name": "T Street",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetov/playlist.m3u8"
         }
       ]
     },
@@ -353,48 +395,6 @@
         {
           "name": "15th St.",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-delmar15th/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "San Onofre / Trestles",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Kiosk 1",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostatekiosk/playlist.m3u8"
-        },
-        {
-          "name": "Kiosk 2",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"
-        },
-        {
-          "name": "Dog Patch",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8?"
-        },
-        {
-          "name": "Old Man's",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmansanonofre/playlist.m3u8"
-        },
-        {
-          "name": "The Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8"
-        },
-        {
-          "name": "Church",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-church/playlist.m3u8"
-        },
-        {
-          "name": "Lowers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8"
-        },
-        {
-          "name": "Uppers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-upperstrestles/playlist.m3u8"
-        },
-        {
-          "name": "T Street",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetov/playlist.m3u8"
         }
       ]
     },
