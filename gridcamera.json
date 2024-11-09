@@ -115,6 +115,296 @@
       ]
     },
     {
+      "name": "Santa Cruz",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Pleasure Point",
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pleasurept/playlist.m3u8"
+        },
+        {
+          "name": "Jacks",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-jacks/playlist.m3u8"
+        },
+        {
+          "name": "Steamer Lane",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-steamer/playlist.m3u8"
+        },
+        {
+          "name": "Steamer Lane Close Up",
+          "url": "https://hls.cdn-surfline.com/oregon/wc-steamercloseup/playlist.m3u8"
+        },
+        {
+          "name": "Steamer Lane Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/wc-steamerov/playlist.m3u8"
+        },
+        {
+          "name": "Cowells",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-cowellsov/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Oahu South Shore Big 4",
+      "audioStreamURL": "https://ice1.somafm.com/reggae-128-aac",
+      "videoStreams": [
+        {
+          "name": "Waikiki",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/chunklist.m3u8"
+        },
+        {
+          "name": "Queens",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queens/playlist.m3u8"
+        },
+        {
+          "name": "Kaisers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kaisers/chunklist.m3u8"
+        },
+        {
+          "name": "Alamoana Bowls",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Oahu South Shore",
+      "audioStreamURL": "https://ice1.somafm.com/reggae-128-aac",
+      "videoStreams": [
+        {
+          "name": "Diamond Head",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-dhead/chunklist.m3u8"
+        },
+        {
+          "name": "Kapiolani Park",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikikapiolani/chunklist.m3u8"
+        },
+        {
+          "name": "Publics",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-publics/chunklist.m3u8"
+        },
+        {
+          "name": "Waikiki Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/chunklist.m3u8"
+        },
+        {
+          "name": "Waikiki Beach",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeach/chunklist.m3u8"
+        },
+        {
+          "name": "Queens Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queensov/playlist.m3u8"
+        },
+        {
+          "name": "Queens",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queens/playlist.m3u8"
+        },
+        {
+          "name": "Canoes",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-canoes/chunklist.m3u8"
+        },
+        {
+          "name": "Populars",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-populars/chunklist.m3u8"
+        },
+        {
+          "name": "Threes",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-threes/chunklist.m3u8"
+        },
+        {
+          "name": "Kaisers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kaisers/chunklist.m3u8"
+        },
+        {
+          "name": "Rockpiles",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpiles/chunklist.m3u8"
+        },
+        {
+          "name": "Ala Moana Bowls",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/chunklist.m3u8"
+        },
+        {
+          "name": "Ala Moana Park",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-southshore/chunklist.m3u8"
+        },
+        {
+          "name": "Kewalos",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kewalosov/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Oahu North Shore",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Haleiwa",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/chunklist.m3u8"
+        },
+        {
+          "name": "Pua Ena Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
+        },
+        {
+          "name": "Laniakea Inside",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakeainside/chunklist.m3u8"
+        },
+        {
+          "name": "Laniakea",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
+        },
+        {
+          "name": "Jockos",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-jockos/chunklist.m3u8"
+        },
+        {
+          "name": "Chuns",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+        },
+        {
+          "name": "Waimea Bay East",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waimeabaysb/chunklist.m3u8"
+        },
+        {
+          "name": "Rockpile",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpile/chunklist.m3u8"
+        },
+        {
+          "name": "Backdoor",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
+        },
+        {
+          "name": "Backdoor Fixed",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
+        },
+        {
+          "name": "Pipeline",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
+        },
+        {
+          "name": "Pipeline Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+        },
+        {
+          "name": "Chambers",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chambers/chunklist.m3u8"
+        },
+        {
+          "name": "Rocky Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point Lefts",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypointlefts/chunklist.m3u8"
+        },
+        {
+          "name": "Sunset Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeachov/chunklist.m3u8"
+        },
+        {
+          "name": "Sunset",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
+        },
+        {
+          "name": "Velzyland",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay West",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+        },
+        {
+          "name": "Turtle Bay East",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebayeast/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Oahu North Shore Favorites",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Haleiwa",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
+        },
+        {
+          "name": "Pua Ena Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
+        },
+        {
+          "name": "Laniakea",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
+        },
+        {
+          "name": "Chuns",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline Overview",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+        },
+        {
+          "name": "Rocky Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
+        },
+        {
+          "name": "Sunset",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
+        },
+        {
+          "name": "Velzyland",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay West",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Oahu North Shore Big 4",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Haleiwa And Pua Ena Point",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
+        },
+        {
+          "name": "Chuns",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+        },
+        {
+          "name": "Velzyland",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay West",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Pipeline and Backdoor",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Backdoor 1",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
+        },
+        {
+          "name": "Backdoor 2",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
+        },
+        {
+          "name": "Pipeline 1",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+        },
+        {
+          "name": "Pipeline 2",
+          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "South San Diego County - 1 of 2",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
@@ -691,288 +981,6 @@
         {
           "name": "San Onofre State Beach Line Cam",
           "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Santa Cruz",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Pleasure Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pleasureptov/playlist.m3u8"
-        },
-        {
-          "name": "Jacks",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-jacks/playlist.m3u8"
-        },
-        {
-          "name": "Steamer Lane",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-steamer/playlist.m3u8"
-        },
-        {
-          "name": "Cowells",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-cowellsov/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu South Shore Big 4",
-      "audioStreamURL": "https://ice1.somafm.com/reggae-128-aac",
-      "videoStreams": [
-        {
-          "name": "Waikiki",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/chunklist.m3u8"
-        },
-        {
-          "name": "Queens",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queens/playlist.m3u8"
-        },
-        {
-          "name": "Kaisers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kaisers/chunklist.m3u8"
-        },
-        {
-          "name": "Alamoana Bowls",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu South Shore",
-      "audioStreamURL": "https://ice1.somafm.com/reggae-128-aac",
-      "videoStreams": [
-        {
-          "name": "Diamond Head",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-dhead/chunklist.m3u8"
-        },
-        {
-          "name": "Kapiolani Park",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikikapiolani/chunklist.m3u8"
-        },
-        {
-          "name": "Publics",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-publics/chunklist.m3u8"
-        },
-        {
-          "name": "Waikiki Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/chunklist.m3u8"
-        },
-        {
-          "name": "Waikiki Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeach/chunklist.m3u8"
-        },
-        {
-          "name": "Queens Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queensov/playlist.m3u8"
-        },
-        {
-          "name": "Queens",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queens/playlist.m3u8"
-        },
-        {
-          "name": "Canoes",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-canoes/chunklist.m3u8"
-        },
-        {
-          "name": "Populars",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-populars/chunklist.m3u8"
-        },
-        {
-          "name": "Threes",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-threes/chunklist.m3u8"
-        },
-        {
-          "name": "Kaisers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kaisers/chunklist.m3u8"
-        },
-        {
-          "name": "Rockpiles",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpiles/chunklist.m3u8"
-        },
-        {
-          "name": "Ala Moana Bowls",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/chunklist.m3u8"
-        },
-        {
-          "name": "Ala Moana Park",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-southshore/chunklist.m3u8"
-        },
-        {
-          "name": "Kewalos",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kewalosov/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu North Shore",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Haleiwa",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/chunklist.m3u8"
-        },
-        {
-          "name": "Pua Ena Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
-        },
-        {
-          "name": "Laniakea Inside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakeainside/chunklist.m3u8"
-        },
-        {
-          "name": "Laniakea",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
-        },
-        {
-          "name": "Jockos",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-jockos/chunklist.m3u8"
-        },
-        {
-          "name": "Chuns",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
-        },
-        {
-          "name": "Waimea Bay East",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waimeabaysb/chunklist.m3u8"
-        },
-        {
-          "name": "Rockpile",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpile/chunklist.m3u8"
-        },
-        {
-          "name": "Backdoor",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
-        },
-        {
-          "name": "Backdoor Fixed",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
-        },
-        {
-          "name": "Pipeline",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
-        },
-        {
-          "name": "Pipeline Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
-        },
-        {
-          "name": "Chambers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chambers/chunklist.m3u8"
-        },
-        {
-          "name": "Rocky Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
-        },
-        {
-          "name": "Rocky Point Lefts",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypointlefts/chunklist.m3u8"
-        },
-        {
-          "name": "Sunset Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeachov/chunklist.m3u8"
-        },
-        {
-          "name": "Sunset",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
-        },
-        {
-          "name": "Velzyland",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
-        },
-        {
-          "name": "Turtle Bay West",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
-        },
-        {
-          "name": "Turtle Bay East",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebayeast/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu North Shore Favorites",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Haleiwa",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
-        },
-        {
-          "name": "Pua Ena Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
-        },
-        {
-          "name": "Laniakea",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
-        },
-        {
-          "name": "Chuns",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
-        },
-        {
-          "name": "Pipeline Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
-        },
-        {
-          "name": "Rocky Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
-        },
-        {
-          "name": "Sunset",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
-        },
-        {
-          "name": "Velzyland",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
-        },
-        {
-          "name": "Turtle Bay West",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu North Shore Big 4",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Haleiwa And Pua Ena Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
-        },
-        {
-          "name": "Chuns",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
-        },
-        {
-          "name": "Velzyland",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
-        },
-        {
-          "name": "Turtle Bay West",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Pipeline and Backdoor",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Backdoor 1",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
-        },
-        {
-          "name": "Backdoor 2",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
-        },
-        {
-          "name": "Pipeline 1",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
-        },
-        {
-          "name": "Pipeline 2",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
         }
       ]
     }
