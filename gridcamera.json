@@ -1,6 +1,194 @@
 {
   "streamingViews": [
     {
+      "name": "Oahu South Shore",
+      "audioStreamURL": "https://ice1.somafm.com/reggae-128-aac",
+      "videoStreams": [
+        {
+          "name": "Kewalos",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kewalosov/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Beach Park - Concessions",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-concessions/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Beach Park - Courts",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-courts/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Beach Park",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-southshore/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Bowls",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-alamoanabowls/playlist.m3u8"
+        },
+        {
+          "name": "Rockpiles",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockpiles/playlist.m3u8"
+        },
+        {
+          "name": "Kaiser's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kaisers/playlist.m3u8"
+        },
+        {
+          "name": "Three's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-threes/playlist.m3u8"
+        },
+        {
+          "name": "Populars",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-populars/playlist.m3u8"
+        },
+        {
+          "name": "Canoes",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-canoes/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki Beach",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeach/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeachov/playlist.m3u8"
+        },
+        {
+          "name": "Queen's Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queensov/playlist.m3u8"
+        },
+        {
+          "name": "Queen's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queens/playlist.m3u8"
+        },
+        {
+          "name": "The Wall",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-thewall/playlist.m3u8"
+        },
+        {
+          "name": "Publics",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-publics/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki - Kapiolani",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikikapiolani/playlist.m3u8"
+        },
+        {
+          "name": "Old Man's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-oldmans/playlist.m3u8"
+        },
+        {
+          "name": "Tongg's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-tonggs/playlist.m3u8"
+        },
+        {
+          "name": "Diamond Head",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-dhead/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Oahu North Shore",
+      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
+      "videoStreams": [
+        {
+          "name": "Haleiwa",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-haleiwa/playlist.m3u8"
+        },
+        {
+          "name": "Haleiwa Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-haleiwaov/playlist.m3u8"
+        },
+        {
+          "name": "Puaena Point",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-puaenapt/playlist.m3u8"
+        },
+        {
+          "name": "Laniakea",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakea/playlist.m3u8"
+        },
+        {
+          "name": "Laniakea Inside",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakeainside/playlist.m3u8"
+        },
+        {
+          "name": "Jocko's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-jockos/playlist.m3u8"
+        },
+        {
+          "name": "Chun's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-chuns/playlist.m3u8"
+        },
+        {
+          "name": "Waimea Bay",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waimea/playlist.m3u8"
+        },
+        {
+          "name": "Waimea Bay Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waimeabaysb/playlist.m3u8"
+        },
+        {
+          "name": "Off The Wall",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-offthewall/playlist.m3u8"
+        },
+        {
+          "name": "Backdoor",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoor/playlist.m3u8"
+        },
+        {
+          "name": "Backdoor Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoorfixed/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipeline/playlist.m3u8"
+        },
+        {
+          "name": "Pipeline Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipelineov/playlist.m3u8"
+        },
+        {
+          "name": "Ehukai Beach Park",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-ehukai/playlist.m3u8"
+        },
+        {
+          "name": "Chambers",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-chambers/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypoint/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point Rights",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypointrights/playlist.m3u8"
+        },
+        {
+          "name": "Rocky Point Lefts",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypointlefts/playlist.m3u8"
+        },
+        {
+          "name": "Sunset Beach",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-sunsetbeach/playlist.m3u8"
+        },
+        {
+          "name": "Sunset Beach West Peak",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-westpeak/playlist.m3u8"
+        },
+        {
+          "name": "Velzyland",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-vland/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay West",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebaywest/playlist.m3u8"
+        },
+        {
+          "name": "Turtle Bay East",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebayeast/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "Pacific Beach",
       "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
       "videoStreams": [
@@ -163,158 +351,6 @@
         {
           "name": "Alamoana Bowls",
           "url": "https://hls.cdn-surfline.com/oregon/hi-alamoanabowls/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu South Shore",
-      "audioStreamURL": "https://ice1.somafm.com/reggae-128-aac",
-      "videoStreams": [
-        {
-          "name": "Diamond Head",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-dhead/chunklist.m3u8"
-        },
-        {
-          "name": "Kapiolani Park",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikikapiolani/chunklist.m3u8"
-        },
-        {
-          "name": "Publics",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-publics/chunklist.m3u8"
-        },
-        {
-          "name": "Waikiki Overview",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeachov/chunklist.m3u8"
-        },
-        {
-          "name": "Waikiki Beach",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeach/chunklist.m3u8"
-        },
-        {
-          "name": "Queens Overview",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-queensov/playlist.m3u8"
-        },
-        {
-          "name": "Queens",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-queens/playlist.m3u8"
-        },
-        {
-          "name": "Canoes",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-canoes/chunklist.m3u8"
-        },
-        {
-          "name": "Populars",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-populars/chunklist.m3u8"
-        },
-        {
-          "name": "Threes",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-threes/chunklist.m3u8"
-        },
-        {
-          "name": "Kaisers",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-kaisers/chunklist.m3u8"
-        },
-        {
-          "name": "Rockpiles",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-rockpiles/chunklist.m3u8"
-        },
-        {
-          "name": "Ala Moana Bowls",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-alamoanabowls/chunklist.m3u8"
-        },
-        {
-          "name": "Ala Moana Park",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-southshore/chunklist.m3u8"
-        },
-        {
-          "name": "Kewalos",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-kewalosov/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Oahu North Shore",
-      "audioStreamURL": "https://ice6.somafm.com/indiepop-128-aac",
-      "videoStreams": [
-        {
-          "name": "Haleiwa",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-haleiwa/chunklist.m3u8"
-        },
-        {
-          "name": "Pua Ena Point",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-puaenapt/chunklist.m3u8"
-        },
-        {
-          "name": "Laniakea Inside",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakeainside/chunklist.m3u8"
-        },
-        {
-          "name": "Laniakea",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakea/chunklist.m3u8"
-        },
-        {
-          "name": "Jockos",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-jockos/chunklist.m3u8"
-        },
-        {
-          "name": "Chuns",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-chuns/playlist.m3u8"
-        },
-        {
-          "name": "Waimea Bay East",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-waimeabaysb/chunklist.m3u8"
-        },
-        {
-          "name": "Rockpile",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-rockpile/chunklist.m3u8"
-        },
-        {
-          "name": "Backdoor",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoor/chunklist.m3u8"
-        },
-        {
-          "name": "Backdoor Fixed",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoorfixed/chunklist.m3u8"
-        },
-        {
-          "name": "Pipeline",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-pipeline/chunklist.m3u8"
-        },
-        {
-          "name": "Pipeline Overview",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-pipelineov/chunklist.m3u8"
-        },
-        {
-          "name": "Chambers",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-chambers/chunklist.m3u8"
-        },
-        {
-          "name": "Rocky Point",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypoint/playlist.m3u8"
-        },
-        {
-          "name": "Rocky Point Lefts",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypointlefts/chunklist.m3u8"
-        },
-        {
-          "name": "Sunset Overview",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-sunsetbeachov/chunklist.m3u8"
-        },
-        {
-          "name": "Sunset",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-sunsetbeach/chunklist.m3u8"
-        },
-        {
-          "name": "Velzyland",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-vland/playlist.m3u8"
-        },
-        {
-          "name": "Turtle Bay West",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebaywest/chunklist.m3u8"
-        },
-        {
-          "name": "Turtle Bay East",
-          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebayeast/chunklist.m3u8"
         }
       ]
     },
