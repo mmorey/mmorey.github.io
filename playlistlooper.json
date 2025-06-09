@@ -1,6 +1,92 @@
 {
   "streamingViews": [
     {
+      "name": "South Shore",
+      "audioStreamURL": "https://stream.radioparadise.com/aac-320",
+      "videoStreams": [
+        {
+          "name": "Kewalos",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kewalosov/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Beach Park - Concessions",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-concessions/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Beach Park - Courts",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-courts/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Beach Park",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-southshore/playlist.m3u8"
+        },
+        {
+          "name": "Ala Moana Bowls",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-alamoanabowls/playlist.m3u8"
+        },
+        {
+          "name": "Rockpiles",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockpiles/playlist.m3u8"
+        },
+        {
+          "name": "Kaiser's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kaisers/playlist.m3u8"
+        },
+        {
+          "name": "Three's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-threes/playlist.m3u8"
+        },
+        {
+          "name": "Populars",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-populars/playlist.m3u8"
+        },
+        {
+          "name": "Canoes",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-canoes/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki Beach",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeach/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeachov/playlist.m3u8"
+        },
+        {
+          "name": "Queen's Overview",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queensov/playlist.m3u8"
+        },
+        {
+          "name": "Queen's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queens/playlist.m3u8"
+        },
+        {
+          "name": "The Wall",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-thewall/playlist.m3u8"
+        },
+        {
+          "name": "Publics",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-publics/playlist.m3u8"
+        },
+        {
+          "name": "Waikiki - Kapiolani",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikikapiolani/playlist.m3u8"
+        },
+        {
+          "name": "Old Man's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-oldmans/playlist.m3u8"
+        },
+        {
+          "name": "Tongg's",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-tonggs/playlist.m3u8"
+        },
+        {
+          "name": "Diamond Head",
+          "url": "https://hls.cdn-surfline.com/oregon/hi-dhead/playlist.m3u8"
+        }
+      ]
+    },
+    {
       "name": "North Shore",
       "audioStreamURL": "https://stream.radioparadise.com/aac-320",
       "videoStreams": [
