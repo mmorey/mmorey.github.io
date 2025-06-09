@@ -22,7 +22,7 @@
         },
         {
           "name": "Pump House",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tourmaline/playlist.m3u8"
         },
         {
           "name": "PB Point",
@@ -56,19 +56,19 @@
         },
         {
           "name": "La Jolla Shores",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-lajollashores/playlist.m3u8"
         },
         {
           "name": "Scripps South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-scripps/playlist.m3u8"
         },
         {
           "name": "Scripps North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-scrippsnorth/playlist.m3u8"
         },
         {
           "name": "Blacks",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-blacks/playlist.m3u8"
         }
       ]
     },
@@ -78,39 +78,39 @@
       "videoStreams": [
         {
           "name": "Kiosk 1",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostatekiosk/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanostatekiosk/playlist.m3u8"
         },
         {
           "name": "Kiosk 2",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanostateline/playlist.m3u8"
         },
         {
           "name": "Dog Patch",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8?"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-dogpatch/playlist.m3u8?"
         },
         {
           "name": "Old Man's",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmansanonofre/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-oldmansanonofre/playlist.m3u8"
         },
         {
           "name": "The Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-thepointsanonofre/playlist.m3u8"
         },
         {
           "name": "Church",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-church/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-church/playlist.m3u8"
         },
         {
           "name": "Lowers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowerslefts/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-lowerslefts/playlist.m3u8"
         },
         {
           "name": "Uppers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-upperstrestles/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-upperstrestles/playlist.m3u8"
         },
         {
           "name": "T Street",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tstreetov/playlist.m3u8"
         }
       ]
     },
@@ -124,11 +124,11 @@
         },
         {
           "name": "Jacks",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-jacks/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-jacks/playlist.m3u8"
         },
         {
           "name": "Steamer Lane",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-steamer/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-steamer/playlist.m3u8"
         },
         {
           "name": "Steamer Lane Close Up",
@@ -140,7 +140,7 @@
         },
         {
           "name": "Cowells",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-cowellsov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-cowellsov/playlist.m3u8"
         }
       ]
     },
@@ -150,19 +150,19 @@
       "videoStreams": [
         {
           "name": "Waikiki",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeachov/chunklist.m3u8"
         },
         {
           "name": "Queens",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queens/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queens/playlist.m3u8"
         },
         {
           "name": "Kaisers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kaisers/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kaisers/chunklist.m3u8"
         },
         {
           "name": "Alamoana Bowls",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-alamoanabowls/chunklist.m3u8"
         }
       ]
     },
@@ -172,63 +172,63 @@
       "videoStreams": [
         {
           "name": "Diamond Head",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-dhead/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-dhead/chunklist.m3u8"
         },
         {
           "name": "Kapiolani Park",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikikapiolani/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikikapiolani/chunklist.m3u8"
         },
         {
           "name": "Publics",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-publics/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-publics/chunklist.m3u8"
         },
         {
           "name": "Waikiki Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeachov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeachov/chunklist.m3u8"
         },
         {
           "name": "Waikiki Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waikikibeach/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waikikibeach/chunklist.m3u8"
         },
         {
           "name": "Queens Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queensov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queensov/playlist.m3u8"
         },
         {
           "name": "Queens",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-queens/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-queens/playlist.m3u8"
         },
         {
           "name": "Canoes",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-canoes/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-canoes/chunklist.m3u8"
         },
         {
           "name": "Populars",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-populars/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-populars/chunklist.m3u8"
         },
         {
           "name": "Threes",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-threes/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-threes/chunklist.m3u8"
         },
         {
           "name": "Kaisers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kaisers/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kaisers/chunklist.m3u8"
         },
         {
           "name": "Rockpiles",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpiles/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockpiles/chunklist.m3u8"
         },
         {
           "name": "Ala Moana Bowls",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-alamoanabowls/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-alamoanabowls/chunklist.m3u8"
         },
         {
           "name": "Ala Moana Park",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-southshore/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-southshore/chunklist.m3u8"
         },
         {
           "name": "Kewalos",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-kewalosov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-kewalosov/chunklist.m3u8"
         }
       ]
     },
@@ -238,83 +238,83 @@
       "videoStreams": [
         {
           "name": "Haleiwa",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-haleiwa/chunklist.m3u8"
         },
         {
           "name": "Pua Ena Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-puaenapt/chunklist.m3u8"
         },
         {
           "name": "Laniakea Inside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakeainside/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakeainside/chunklist.m3u8"
         },
         {
           "name": "Laniakea",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakea/chunklist.m3u8"
         },
         {
           "name": "Jockos",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-jockos/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-jockos/chunklist.m3u8"
         },
         {
           "name": "Chuns",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-chuns/playlist.m3u8"
         },
         {
           "name": "Waimea Bay East",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-waimeabaysb/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-waimeabaysb/chunklist.m3u8"
         },
         {
           "name": "Rockpile",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockpile/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockpile/chunklist.m3u8"
         },
         {
           "name": "Backdoor",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoor/chunklist.m3u8"
         },
         {
           "name": "Backdoor Fixed",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoorfixed/chunklist.m3u8"
         },
         {
           "name": "Pipeline",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipeline/chunklist.m3u8"
         },
         {
           "name": "Pipeline Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipelineov/chunklist.m3u8"
         },
         {
           "name": "Chambers",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chambers/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-chambers/chunklist.m3u8"
         },
         {
           "name": "Rocky Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypoint/playlist.m3u8"
         },
         {
           "name": "Rocky Point Lefts",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypointlefts/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypointlefts/chunklist.m3u8"
         },
         {
           "name": "Sunset Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeachov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-sunsetbeachov/chunklist.m3u8"
         },
         {
           "name": "Sunset",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-sunsetbeach/chunklist.m3u8"
         },
         {
           "name": "Velzyland",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-vland/playlist.m3u8"
         },
         {
           "name": "Turtle Bay West",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebaywest/chunklist.m3u8"
         },
         {
           "name": "Turtle Bay East",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebayeast/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebayeast/chunklist.m3u8"
         }
       ]
     },
@@ -324,39 +324,39 @@
       "videoStreams": [
         {
           "name": "Haleiwa",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-haleiwa/playlist.m3u8"
         },
         {
           "name": "Pua Ena Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-puaenapt/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-puaenapt/chunklist.m3u8"
         },
         {
           "name": "Laniakea",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-laniakea/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-laniakea/chunklist.m3u8"
         },
         {
           "name": "Chuns",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-chuns/playlist.m3u8"
         },
         {
           "name": "Pipeline Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipelineov/chunklist.m3u8"
         },
         {
           "name": "Rocky Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-rockypoint/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-rockypoint/playlist.m3u8"
         },
         {
           "name": "Sunset",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-sunsetbeach/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-sunsetbeach/chunklist.m3u8"
         },
         {
           "name": "Velzyland",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-vland/playlist.m3u8"
         },
         {
           "name": "Turtle Bay West",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebaywest/chunklist.m3u8"
         }
       ]
     },
@@ -366,19 +366,19 @@
       "videoStreams": [
         {
           "name": "Haleiwa And Pua Ena Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-haleiwa/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-haleiwa/playlist.m3u8"
         },
         {
           "name": "Chuns",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-chuns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-chuns/playlist.m3u8"
         },
         {
           "name": "Velzyland",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-vland/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-vland/playlist.m3u8"
         },
         {
           "name": "Turtle Bay West",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-turtlebaywest/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-turtlebaywest/chunklist.m3u8"
         }
       ]
     },
@@ -388,19 +388,19 @@
       "videoStreams": [
         {
           "name": "Backdoor 1",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoor/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoor/chunklist.m3u8"
         },
         {
           "name": "Backdoor 2",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-backdoorfixed/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-backdoorfixed/chunklist.m3u8"
         },
         {
           "name": "Pipeline 1",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipelineov/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipelineov/chunklist.m3u8"
         },
         {
           "name": "Pipeline 2",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/hi-pipeline/chunklist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/hi-pipeline/chunklist.m3u8"
         }
       ]
     },
@@ -410,39 +410,39 @@
       "videoStreams": [
         {
           "name": "Torrey Pines State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-torreypines/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-torreypines/playlist.m3u8"
         },
         {
           "name": "Torrey Pines State Beach North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-torreypinesnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-torreypinesnorth/playlist.m3u8"
         },
         {
           "name": "Torrey Pines Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-torreypinesov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-torreypinesov/playlist.m3u8"
         },
         {
           "name": "Blacks",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blacks/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-blacks/playlist.m3u8"
         },
         {
           "name": "Scripps Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-scrippsnorth/playlist.m3u8"
         },
         {
           "name": "Scripps",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scripps/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-scripps/playlist.m3u8"
         },
         {
           "name": "Scripps",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scrippsnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-scrippsnorth/playlist.m3u8"
         },
         {
           "name": "La Jolla Shores",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lajollashores/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-lajollashores/playlist.m3u8"
         },
         {
           "name": "Windansea",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-windansea/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-windansea/playlist.m3u8"
         },
         {
           "name": "PB Point",
@@ -450,11 +450,11 @@
         },
         {
           "name": "Old Man's at Tourmaline",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tourmaline/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tourmaline/playlist.m3u8"
         },
         {
           "name": "Pacific Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeach/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pacificbeach/playlist.m3u8"
         },
         {
           "name": "PB",
@@ -466,11 +466,11 @@
         },
         {
           "name": "Pacific Beach, South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pacificbeachsouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pacificbeachsouth/playlist.m3u8"
         },
         {
           "name": "Pacific Beach Dr",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pbdrive/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pbdrive/playlist.m3u8"
         }
       ]
     },
@@ -480,19 +480,19 @@
       "videoStreams": [
         {
           "name": "Mission Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-missionbeach/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-missionbeach/playlist.m3u8"
         },
         {
           "name": "Ocean Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oceanbeachsd/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachsd/playlist.m3u8"
         },
         {
           "name": "Ocean Beach Pier ",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oceanbeachsdpier/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachsdpier/playlist.m3u8"
         },
         {
           "name": "Sunset Cliffs",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sunsetcliffs/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sunsetcliffs/playlist.m3u8"
         },
         {
           "name": "Point Loma",
@@ -500,19 +500,19 @@
         },
         {
           "name": "Imperial Beach Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpierns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-imperialpierns/playlist.m3u8"
         },
         {
           "name": "Imperial Beach Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpiernsov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-imperialpiernsov/playlist.m3u8"
         },
         {
           "name": "Imperial Beach Pier, Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpierss/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-imperialpierss/playlist.m3u8"
         },
         {
           "name": "Imperial Beach Pier, Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-imperialpierssov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-imperialpierssov/playlist.m3u8"
         }
       ]
     },
@@ -522,83 +522,83 @@
       "videoStreams": [
         {
           "name": "Oceanside Harbor, South Jetty",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-osideharborsjetty/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-osideharborsjetty/playlist.m3u8"
         },
         {
           "name": "Oceanside Harbor, South Jetty",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-osideharbor/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-osideharbor/playlist.m3u8"
         },
         {
           "name": "Oceanside Harbor, North Jetty",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-osideharbornjetty/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-osideharbornjetty/playlist.m3u8"
         },
         {
           "name": "Oceanside Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oceansidepierns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-oceansidepierns/playlist.m3u8"
         },
         {
           "name": "Oceanside Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-osidepiernsov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-osidepiernsov/playlist.m3u8"
         },
         {
           "name": "Oceanside Pier, Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oceansidepierss/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-oceansidepierss/playlist.m3u8"
         },
         {
           "name": "Oceanside Pier, Southside Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-osidepierssov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-osidepierssov/playlist.m3u8"
         },
         {
           "name": "Oceanside Pier, Southside Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-osidessov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-osidessov/playlist.m3u8"
         },
         {
           "name": "The Rock, Oceanside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-therockoside/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-therockoside/playlist.m3u8"
         },
         {
           "name": "Forster St. Oceanside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-forsterstoside/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-forsterstoside/playlist.m3u8"
         },
         {
           "name": "Carlsbad State Beach North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-northcarlsbad/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-northcarlsbad/playlist.m3u8"
         },
         {
           "name": "Carlsbad State Beach South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-southcarlsbad/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-southcarlsbad/playlist.m3u8"
         },
         {
           "name": "Tamarack",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tamarack/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tamarack/playlist.m3u8"
         },
         {
           "name": "Terra Mar Point",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-terramarpt/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-terramarpt/playlist.m3u8"
         },
         {
           "name": "Ponto North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pontonorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pontonorth/playlist.m3u8"
         },
         {
           "name": "Ponto Jetties",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pontojetties/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pontojetties/playlist.m3u8"
         },
         {
           "name": "Ponto North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pontonorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pontonorth/playlist.m3u8"
         },
         {
           "name": "Ponto South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pontosouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pontosouth/playlist.m3u8"
         },
         {
           "name": "Grandview Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-grandviewov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-grandviewov/playlist.m3u8"
         },
         {
           "name": "Grandview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-grandview/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-grandview/playlist.m3u8"
         }
       ]
     },
@@ -608,83 +608,83 @@
       "videoStreams": [
         {
           "name": "Beacons",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-beacons/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-beacons/playlist.m3u8"
         },
         {
           "name": "Beacons North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-beaconsnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-beaconsnorth/playlist.m3u8"
         },
         {
           "name": "Moonlight State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-moonlight/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-moonlight/playlist.m3u8"
         },
         {
           "name": "Moonlight State Beach North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-moonlightnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-moonlightnorth/playlist.m3u8"
         },
         {
           "name": "D Street",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dstreet/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-dstreet/playlist.m3u8"
         },
         {
           "name": "Swami's Close Up",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-swamisclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-swamisclose/playlist.m3u8"
         },
         {
           "name": "Swami's",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-swamis/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-swamis/playlist.m3u8"
         },
         {
           "name": "Pipes",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-pipes/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-pipes/playlist.m3u8"
         },
         {
           "name": "San Elijo State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanelijo/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanelijo/playlist.m3u8"
         },
         {
           "name": "San Elijo State Beach South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanelijosbsouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanelijosbsouth/playlist.m3u8"
         },
         {
           "name": "San Elijo State Beach North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanelijosbnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanelijosbnorth/playlist.m3u8"
         },
         {
           "name": "Cardiff Reef South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-cardiffreefsouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-cardiffreefsouth/playlist.m3u8"
         },
         {
           "name": "Cardiff Reef North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-cardiffreefnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-cardiffreefnorth/playlist.m3u8"
         },
         {
           "name": "Cardiff Reef Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-cardiffov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-cardiffov/playlist.m3u8"
         },
         {
           "name": "George's",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-georges/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-georges/playlist.m3u8"
         },
         {
           "name": "Seaside Reef",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-seasidereef/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-seasidereef/playlist.m3u8"
         },
         {
           "name": "25th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-delmar25th/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-delmar25th/playlist.m3u8"
         },
         {
           "name": "Del Mar Beachbreak",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-delmarbeachbreak/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-delmarbeachbreak/playlist.m3u8"
         },
         {
           "name": "Del Mar",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-delmar/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-delmar/playlist.m3u8"
         },
         {
           "name": "15th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-delmar15th/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-delmar15th/playlist.m3u8"
         }
       ]
     },
@@ -694,67 +694,67 @@
       "videoStreams": [
         {
           "name": "Seal Beach Jetty",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachjetty/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sealbeachjetty/playlist.m3u8"
         },
         {
           "name": "Seal Beach Jetty Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachjettyov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sealbeachjettyov/playlist.m3u8"
         },
         {
           "name": "Seal Beach Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sealbeachns/playlist.m3u8"
         },
         {
           "name": "Seal Beach Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachnsov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sealbeachnsov/playlist.m3u8"
         },
         {
           "name": "Seal Beach Pier, Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachss/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sealbeachss/playlist.m3u8"
         },
         {
           "name": "Seal Beach Pier, Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sealbeachssov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sealbeachssov/playlist.m3u8"
         },
         {
           "name": "Surfside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-surfside/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-surfside/playlist.m3u8"
         },
         {
           "name": "Anderson St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-andersonst/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-andersonst/playlist.m3u8"
         },
         {
           "name": "Anderson St. Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-andersonstov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-andersonstov/playlist.m3u8"
         },
         {
           "name": "Bolsa Chica State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicastsouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-bolsachicastsouth/playlist.m3u8"
         },
         {
           "name": "Bolsa Chica State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicastnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-bolsachicastnorth/playlist.m3u8"
         },
         {
           "name": "Bolsa Chica State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachica/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-bolsachica/playlist.m3u8"
         },
         {
           "name": "Bolsa Chica State Beach N.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicastnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-bolsachicastnorth/playlist.m3u8"
         },
         {
           "name": "Bolsa Chica Jetties",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-bolsachicajetties/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-bolsachicajetties/playlist.m3u8"
         },
         {
           "name": "Goldenwest",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-goldenwest/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-goldenwest/playlist.m3u8"
         },
         {
           "name": "20th Street",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-twentiethst/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-twentiethst/playlist.m3u8"
         }
       ]
     },
@@ -764,67 +764,67 @@
       "videoStreams": [
         {
           "name": "17th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-seventeenthst/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-seventeenthst/playlist.m3u8"
         },
         {
           "name": "HB Pier, Northside Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-9thstov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-9thstov/playlist.m3u8"
         },
         {
           "name": "HB Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpierns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbpierns/playlist.m3u8"
         },
         {
           "name": "HB Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiernsclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbpiernsclose/playlist.m3u8"
         },
         {
           "name": "HB Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiernsov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbpiernsov/playlist.m3u8"
         },
         {
           "name": "HB Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-9thstov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-9thstov/playlist.m3u8"
         },
         {
           "name": "HB Pier Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiersclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbpiersclose/playlist.m3u8"
         },
         {
           "name": "HB Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbss/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbss/playlist.m3u8"
         },
         {
           "name": "HB Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpiersclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbpiersclose/playlist.m3u8"
         },
         {
           "name": "HB Pier, Southside Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbpierssov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbpierssov/playlist.m3u8"
         },
         {
           "name": "Huntington St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-huntingtonstov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-huntingtonstov/playlist.m3u8"
         },
         {
           "name": "Huntington State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbstatebeach/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbstatebeach/playlist.m3u8"
         },
         {
           "name": "Huntington State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-hbstatebeachn/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-hbstatebeachn/playlist.m3u8"
         },
         {
           "name": "River Jetties",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjetties/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-riverjetties/playlist.m3u8"
         },
         {
           "name": "River Jetties North",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjettiesnorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-riverjettiesnorth/playlist.m3u8"
         },
         {
           "name": "River Jetties South",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-riverjettiessouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-riverjettiessouth/playlist.m3u8"
         }
       ]
     },
@@ -834,67 +834,67 @@
       "videoStreams": [
         {
           "name": "56th Street Close-up",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-fiftysixclose/playlist.m3u8"
         },
         {
           "name": "56th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixnewport/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-fiftysixnewport/playlist.m3u8"
         },
         {
           "name": "56th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftysixclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-fiftysixclose/playlist.m3u8"
         },
         {
           "name": "54th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fiftyfournewport/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-fiftyfournewport/playlist.m3u8"
         },
         {
           "name": "Newport Jetties",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-newportjetties/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-newportjetties/playlist.m3u8"
         },
         {
           "name": "40th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-fortiethstnewport/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-fortiethstnewport/playlist.m3u8"
         },
         {
           "name": "36th St.",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thirtysixnewport/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-thirtysixnewport/playlist.m3u8"
         },
         {
           "name": "Lower Jetties",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowerjetties/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-lowerjetties/playlist.m3u8"
         },
         {
           "name": "Blackies",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blackies/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-blackies/playlist.m3u8"
         },
         {
           "name": "Blackies Close-up",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-blackiesclose/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-blackiesclose/playlist.m3u8"
         },
         {
           "name": "Newport Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-newportpierns/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-newportpierns/playlist.m3u8"
         },
         {
           "name": "Newport Pier, Southside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-newportpierss/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-newportpierss/playlist.m3u8"
         },
         {
           "name": "The Wedge",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-wedge/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-wedge/playlist.m3u8"
         },
         {
           "name": "The Wedge",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-wedgejetty/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-wedgejetty/playlist.m3u8"
         },
         {
           "name": "Corona del Mar",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-coronadelmar/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-coronadelmar/playlist.m3u8"
         },
         {
           "name": "Crystal Cove",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-crystalcove/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-crystalcove/playlist.m3u8"
         }
       ]
     },
@@ -904,83 +904,83 @@
       "videoStreams": [
         {
           "name": "Aliso Creek",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-alisocreekbeach/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-alisocreekbeach/playlist.m3u8"
         },
         {
           "name": "Aliso Creek",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-alisocreek/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-alisocreek/playlist.m3u8"
         },
         {
           "name": "Salt Creek",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-saltcreek/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-saltcreek/playlist.m3u8"
         },
         {
           "name": "Salt Creek Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-saltcreekov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-saltcreekov/playlist.m3u8"
         },
         {
           "name": "Strands",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-strands/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-strands/playlist.m3u8"
         },
         {
           "name": "Boneyard ",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-boneyard/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-boneyard/playlist.m3u8"
         },
         {
           "name": "Doheny State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dohenysb/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-dohenysb/playlist.m3u8"
         },
         {
           "name": "Doheny Rivermouth",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dohenyrivermouth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-dohenyrivermouth/playlist.m3u8"
         },
         {
           "name": "San Clemente Pier, Northside",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-scpiernorth/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-scpiernorth/playlist.m3u8"
         },
         {
           "name": "T-Street Lefts",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetlefts/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tstreetlefts/playlist.m3u8"
         },
         {
           "name": "T-Street",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreet/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tstreet/playlist.m3u8"
         },
         {
           "name": "T-Street Overview",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-tstreetov/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-tstreetov/playlist.m3u8"
         },
         {
           "name": "San Clemente State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanclementesb/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanclementesb/playlist.m3u8"
         },
         {
           "name": "Upper Trestles",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-upperstrestles/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-upperstrestles/playlist.m3u8"
         },
         {
           "name": "Lower Trestles",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-lowers/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-lowers/playlist.m3u8"
         },
         {
           "name": "Church",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-church/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-church/playlist.m3u8"
         },
         {
           "name": "The Point at San Onofre",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-thepointsanonofre/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-thepointsanonofre/playlist.m3u8"
         },
         {
           "name": "San Onofre State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-oldmansanonofre/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-oldmansanonofre/playlist.m3u8"
         },
         {
           "name": "San Onofre State Beach",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-dogpatch/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-dogpatch/playlist.m3u8"
         },
         {
           "name": "San Onofre State Beach Line Cam",
-          "url": "https://cams.cdn-surfline.com/cdn-wc/wc-sanostateline/playlist.m3u8"
+          "url": "https://hls.cdn-surfline.com/oregon/wc-sanostateline/playlist.m3u8"
         }
       ]
     }
